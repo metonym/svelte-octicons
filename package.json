@@ -1,0 +1,40 @@
+{
+  "name": "svelte-octicons",
+  "version": "9.6.0",
+  "license": "MIT",
+  "description": "GitHub octicons as Svelte components",
+  "author": "Eric Liu (https://github.com/metonym)",
+  "svelte": "lib/index.js",
+  "main": "lib/index.js",
+  "sideEffects": false,
+  "scripts": {
+    "prepack": "node build-octicons && prettier --write 'lib/**/*.{js,svelte}' 'docs/*.md'"
+  },
+  "peerDependencies": {
+    "svelte": "^3.20.x"
+  },
+  "devDependencies": {
+    "@primer/octicons": "9.6.0",
+    "prettier": "1.19.1",
+    "prettier-plugin-svelte": "0.7.0",
+    "svelte": "^3.20.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metonym/svelte-octicons.git"
+  },
+  "homepage": "https://github.com/metonym/svelte-octicons",
+  "bugs": "https://github.com/metonym/svelte-octicons/issues",
+  "keywords": [
+    "svelte",
+    "svelte component",
+    "octicons",
+    "primer",
+    "github",
+    "icons",
+    "svg"
+  ],
+  "files": [
+    "lib"
+  ]
+}

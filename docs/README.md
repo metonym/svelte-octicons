@@ -1,14 +1,15 @@
 # docs
 
-> 204 octicons built with @primer/octicons version 9.6.0.
+> 204 octicons from @primer/octicons@9.6.0.
 
 ## Usage
 
 ```html
 <script>
-  import ModuleName from "svelte-octicons/lib/ModuleName";
+  import Octicon from "svelte-octicons/lib/{ModuleName}";
 </script>
-<ModuleName />
+
+<Octicon />
 ```
 
 ## List of octicons by `ModuleName`

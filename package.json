@@ -8,16 +8,15 @@
   "main": "lib/index.js",
   "sideEffects": false,
   "scripts": {
-    "prepack": "node build-octicons && prettier --write 'lib/**/*.{js,svelte}' 'docs/*.md'"
+    "prepack": "node build-octicons"
   },
   "peerDependencies": {
     "svelte": "^3.20.x"
   },
   "devDependencies": {
     "@primer/octicons": "9.6.0",
-    "prettier": "1.19.1",
-    "prettier-plugin-svelte": "0.7.0",
-    "svelte": "^3.20.x"
+    "svelte": "^3.20.x",
+    "svg-to-svelte": "^0.3.0"
   },
   "repository": {
     "type": "git",

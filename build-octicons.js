@@ -44,8 +44,8 @@ function build() {
     fs.writeFileSync(
       `lib/${moduleName}/index.js`,
       `import ${moduleName} from "./${moduleName}.svelte";
-     export { ${moduleName} };
-     export default ${moduleName};`
+       export { ${moduleName} };
+       export default ${moduleName};`
     );
 
     return `export { ${moduleName} } from "./${moduleName}";`;
@@ -63,9 +63,10 @@ function build() {
     "## Usage",
     "```html",
     `<script>
-       import ModuleName from "svelte-octicons/lib/ModuleName";
+       import Octicon from "svelte-octicons/lib/{ModuleName}";
      </script>
-     <ModuleName />`,
+
+     <Octicon />`,
     "```",
     "## List of octicons by `ModuleName`",
     moduleNames.map((moduleName) => `- ${moduleName}`).join("\n"),

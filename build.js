@@ -2,8 +2,8 @@ const fs = require("fs");
 const pkg = require("./package.json");
 const { cleanDir, generateFromFolder } = require("svg-to-svelte");
 
-function build() {
-  const { moduleNames } = generateFromFolder(
+async function build() {
+  const { moduleNames } = await generateFromFolder(
     "node_modules/@primer/octicons/build/svg",
     "lib",
     {
@@ -11,7 +11,7 @@ function build() {
     }
   );
 
-  cleanDir("docs");
+  await cleanDir("docs");
 
   const docs = [
     "# docs",

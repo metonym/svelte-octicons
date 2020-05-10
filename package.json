@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@primer/octicons": "9.6.0",
-    "svg-to-svelte": "^0.3.4"
+    "svg-to-svelte": "^0.3.6"
   },
   "repository": {
     "type": "git",

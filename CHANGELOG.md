@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Make icon module names in demo copyable
 
+## [9.6.2](https://github.com/metonym/svelte-octicons/releases/tag/v9.6.2) - 2020-05-10
+
+- Revert to old build process to include Octicon class names
+
 ## [9.6.1](https://github.com/metonym/svelte-octicons/releases/tag/v9.6.1) - 2020-05-10
 
 - Upgrade `svg-to-svelte` to v0.3.6 to allow `$$restProps` override

@@ -1,6 +1,6 @@
 # docs
 
-> 204 octicons from @primer/octicons@9.6.0.
+> 204 octicons built with @primer/octicons version 9.6.0.
 
 ## Usage
 

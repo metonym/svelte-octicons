@@ -1,19 +1,14 @@
 # docs
-
-> 204 octicons built with @primer/octicons version 9.6.0.
-
+> 204 octicons built with @primer/octicons@9.6.0.
 ## Usage
-
 ```html
 <script>
-  import Octicon from "svelte-octicons/lib/{ModuleName}";
-</script>
+       import Octicon from "svelte-octicons/lib/{ModuleName}";
+     </script>
 
-<Octicon />
+     <Octicon />
 ```
-
 ## List of octicons by `ModuleName`
-
 - Alert
 - Archive
 - ArrowBoth

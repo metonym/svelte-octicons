@@ -3,12 +3,15 @@ const octicons = require("@primer/octicons");
 const pkg = require("./package.json");
 
 const template = (octicon) => {
-  return `<svg
+  return `<script>export let width = ${
+    octicon.options.width
+  }; export let height = ${octicon.options.height};</script><svg
   version="${octicon.options.version}"
-  width="${octicon.options.width}"
-  height="${octicon.options.height}"
   aria-hidden="${octicon.options["aria-hidden"]}"
+  viewBox="${octicon.options.viewBox}"
   {...$$restProps}
+  {width}
+  {height}
 ${octicon.options.class
   .split(" ")
   .map((name) => `  class:${name}={true}`)

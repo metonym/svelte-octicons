@@ -4,16 +4,15 @@
   "scripts": {
     "develop": "sapper dev",
     "build": "sapper export --basepath svelte-octicons",
-    "deploy": "node gh-pages"
+    "deploy": "gh-pages -d public/svelte-octicons"
   },
   "dependencies": {
-    "polka": "next",
-    "sirv": "^0.4.0"
+    "polka": "next"
   },
   "devDependencies": {
     "@metonym/sapper": "^0.27.12",
-    "gh-pages": "^2.2.0",
-    "svelte": "^3.0.0",
+    "gh-pages": "^3.0.0",
+    "svelte": "^3.23.2",
     "svelte-loader": "^2.9.0",
     "svelte-octicons": "../",
     "webpack": "^4.43.0"

@@ -12,6 +12,8 @@
   li {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    min-height: 4.5rem;
     margin: 0.5rem;
     padding: 0.75rem 0.5rem 0.5rem;
     border: 1px solid #e0e0e0;

@@ -19,10 +19,10 @@ yarn add -D svelte-octicons
 
 ```html
 <script>
-  import { Alert } from "svelte-octicons";
+  import { Alert16 } from "svelte-octicons";
 </script>
 
-<Alert />
+<Alert16 />
 ```
 
 Refer to [docs/README.md](docs/README.md) for a full list of octicons.

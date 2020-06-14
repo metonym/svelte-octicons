@@ -3,11 +3,13 @@
 [![NPM][npm]][npm-url]
 [![Build][build]][build-badge]
 
-> GitHub octicons as Svelte components.
+> GitHub Octicons as Svelte components.
 
 This library builds [GitHub Primer Octicons](https://primer.style/octicons/) as Svelte components with zero dependencies.
 
 Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1945f?version=3.20.1).
+
+## [Icon Index](docs/README.md)
 
 ## Install
 

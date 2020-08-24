@@ -1,18 +1,18 @@
-# docs
+# Icon Index
 
-> 396 octicons built with @primer/octicons@10.0.0.
+> 403 icons from svelte-octicons@10.1.0.
 
 ## Usage
 
 ```html
 <script>
-  import Octicon from "svelte-octicons/lib/{ModuleName}";
+  import Icon from "svelte-octicons/lib/{ModuleName}";
 </script>
 
-<Octicon />
+<Icon />
 ```
 
-## List of octicons by `ModuleName`
+## Icons by `ModuleName`
 
 - Alert16
 - Alert24
@@ -28,6 +28,8 @@
 - ArrowLeft24
 - ArrowRight16
 - ArrowRight24
+- ArrowSwitch16
+- ArrowSwitch24
 - ArrowUp16
 - ArrowUp24
 - ArrowUpLeft24
@@ -73,6 +75,7 @@
 - ChevronRight24
 - ChevronUp16
 - ChevronUp24
+- Circle16
 - Circle24
 - CircleSlash16
 - CircleSlash24
@@ -131,6 +134,7 @@
 - EyeSlash24
 - File16
 - File24
+- FileBadge16
 - FileBinary16
 - FileBinary24
 - FileCode16
@@ -260,6 +264,7 @@
 - Note16
 - Note24
 - Octoface16
+- Octoface24
 - Organization16
 - Organization24
 - Package16
@@ -406,7 +411,9 @@
 - Workflow24
 - X16
 - X24
+- XCircle16
 - XCircle24
+- XCircleFill16
 - XCircleFill24
 - Zap16
 - Zap24

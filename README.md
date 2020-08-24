@@ -9,12 +9,14 @@ This library builds [GitHub Primer Octicons](https://primer.style/octicons/) as 
 
 Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1945f?version=3.20.1).
 
-## [Icon Index](docs/README.md)
+## [Icon Preview](https://metonym.github.io/svelte-octicons/) · [Icon Index](ICON_INDEX.md)
 
 ## Install
 
 ```bash
 yarn add -D svelte-octicons
+# OR
+npm -i -D svelte-octicons
 ```
 
 ## Usage
@@ -27,7 +29,7 @@ yarn add -D svelte-octicons
 <Alert16 />
 ```
 
-Refer to [docs/README.md](docs/README.md) for a full list of octicons.
+Refer to [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
 
 ## API
 

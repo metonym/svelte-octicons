@@ -1,6 +1,6 @@
 const fs = require("fs");
 const octicons = require("@primer/octicons");
-const pkg = require("./package.json");
+const { name, devDependencies } = require("./package.json");
 
 const template = (octicon) => {
   return `<script>export let width = ${octicon.width}; export let height = ${
@@ -65,22 +65,22 @@ function build() {
   fs.rmdirSync("docs", { recursive: true });
   fs.mkdirSync("docs");
 
-  const docs = [
-    "# docs",
-    `> ${moduleNames.length} octicons built with @primer/octicons@${pkg.devDependencies["@primer/octicons"]}.`,
-    "## Usage",
-    "```html",
-    `<script>
-       import Octicon from "svelte-octicons/lib/{ModuleName}";
-     </script>
+  const index = `# Icon Index\n
+> ${moduleNames.length} icons from ${name}@${
+    devDependencies["@primer/octicons"]
+  }.\n
+## Usage\n
+\`\`\`html
+<script>
+  import Icon from "${name}/lib/{ModuleName}";
+</script>
 
-     <Octicon />`,
-    "```",
-    "## List of octicons by `ModuleName`",
-    moduleNames.map((moduleName) => `- ${moduleName}`).join("\n"),
-  ];
+<Icon />
+\`\`\`\n
+## Icons by \`ModuleName\`\n
+${moduleNames.map((name) => `- ${name}`).join("\n")}`;
 
-  fs.writeFileSync("docs/README.md", docs.join("\n"));
+  fs.writeFileSync("ICON_INDEX.md", index);
 }
 
 build();

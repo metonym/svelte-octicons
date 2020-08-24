@@ -2,7 +2,7 @@
   "name": "svelte-octicons",
   "version": "10.0.0",
   "license": "MIT",
-  "description": "GitHub octicons as Svelte components",
+  "description": "GitHub Octicons as Svelte components",
   "author": "Eric Liu (https://github.com/metonym)",
   "svelte": "./lib/index.js",
   "main": "./lib/index.js",
@@ -10,11 +10,8 @@
   "scripts": {
     "prepack": "node build"
   },
-  "peerDependencies": {
-    "svelte": "^3.20.x"
-  },
   "devDependencies": {
-    "@primer/octicons": "10.0.0"
+    "@primer/octicons": "10.1.0"
   },
   "repository": {
     "type": "git",

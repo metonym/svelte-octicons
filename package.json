@@ -1,6 +1,6 @@
 {
   "name": "svelte-octicons",
-  "version": "10.0.0",
+  "version": "10.1.0",
   "license": "MIT",
   "description": "GitHub Octicons as Svelte components",
   "author": "Eric Liu (https://github.com/metonym)",

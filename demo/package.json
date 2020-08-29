@@ -3,7 +3,7 @@
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper export --basepath svelte-octicons",
-    "deploy": "gh-pages -d public/svelte-octicons"
+    "deploy": "npx gh-pages -d public/svelte-octicons"
   },
   "dependencies": {
     "polka": "next"

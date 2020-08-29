@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [11.0.0](https://github.com/metonym/svelte-octicons/releases/tag/v11.0.0) - 2020-08-29
+
+**Breaking changes**
+
+- Generated Svelte components are at the `lib` level; it's not longer possible to import a component through `svelte-octicons/lib/Alert16.svelte`. However, `svelte-octicons/lib/Alert16` should still resolve correctly without the `.svelte` extension
+
 ## [10.1.0](https://github.com/metonym/svelte-octicons/releases/tag/v10.1.0) - 2020-08-24
 
 - Upgrade @primer/octicons to version 10.1.0 (7 new icons)

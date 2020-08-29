@@ -1,8 +1,7 @@
 {
-  "version": "0.0.1",
   "private": true,
   "scripts": {
-    "develop": "sapper dev",
+    "dev": "sapper dev",
     "build": "sapper export --basepath svelte-octicons",
     "deploy": "gh-pages -d public/svelte-octicons"
   },
@@ -11,7 +10,6 @@
   },
   "devDependencies": {
     "@metonym/sapper": "^0.27.12",
-    "gh-pages": "^3.0.0",
     "svelte": "^3.23.2",
     "svelte-loader": "^2.9.0",
     "svelte-octicons": "../",

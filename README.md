@@ -21,9 +21,21 @@ npm -i -D svelte-octicons
 
 ## Usage
 
+### Base import
+
 ```html
 <script>
   import { Alert16 } from "svelte-octicons";
+</script>
+
+<Alert16 />
+```
+
+### Direct import
+
+```html
+<script>
+  import Alert16 from "svelte-octicons/lib/Alert16.svelte";
 </script>
 
 <Alert16 />

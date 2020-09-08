@@ -1,6 +1,6 @@
 # Icon Index
 
-> 403 icons from svelte-octicons@10.1.0.
+> 402 icons from svelte-octicons@11.0.0.
 
 ## Usage
 
@@ -131,7 +131,7 @@
 - Eye16
 - Eye24
 - EyeClosed16
-- EyeSlash24
+- EyeClosed24
 - File16
 - File24
 - FileBadge16
@@ -147,14 +147,14 @@
 - FileMedia24
 - FileSubmodule16
 - FileSubmodule24
-- FileSymlink24
 - FileSymlinkFile16
+- FileSymlinkFile24
 - FileZip16
 - FileZip24
 - Filter16
 - Filter24
-- Fire24
 - Flame16
+- Flame24
 - Fold16
 - Fold24
 - FoldDown16
@@ -327,7 +327,6 @@
 - Search24
 - Server16
 - Server24
-- Settings24
 - Share16
 - Share24
 - ShareAndroid16
@@ -399,8 +398,8 @@
 - Unlock24
 - Unmute16
 - Unmute24
-- Unverifed24
 - Unverified16
+- Unverified24
 - Upload16
 - Upload24
 - Verified16

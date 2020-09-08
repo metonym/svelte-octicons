@@ -11,7 +11,7 @@
     "prepack": "node build"
   },
   "devDependencies": {
-    "@primer/octicons": "10.1.0"
+    "@primer/octicons": "11.0.0"
   },
   "repository": {
     "type": "git",

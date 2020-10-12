@@ -16,7 +16,7 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1
 ```bash
 yarn add -D svelte-octicons
 # OR
-npm -i -D svelte-octicons
+npm i -D svelte-octicons
 ```
 
 ## Usage

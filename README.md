@@ -13,7 +13,7 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1
 
 ## Install
 
-```bash
+```sh
 yarn add -D svelte-octicons
 # OR
 npm i -D svelte-octicons
@@ -23,7 +23,7 @@ npm i -D svelte-octicons
 
 ### Base import
 
-```html
+```svelte
 <script>
   import { Alert16 } from "svelte-octicons";
 </script>
@@ -33,7 +33,7 @@ npm i -D svelte-octicons
 
 ### Direct import
 
-```html
+```svelte
 <script>
   import Alert16 from "svelte-octicons/lib/Alert16.svelte";
 </script>

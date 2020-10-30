@@ -3,4 +3,4 @@ node_js: 12
 cache: yarn
 script:
   - yarn prepack
-  - cd demo && yarn && yarn build
+  - yarn build

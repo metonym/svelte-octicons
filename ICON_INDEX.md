@@ -1,6 +1,6 @@
 # Icon Index
 
-> 402 icons from svelte-octicons@11.0.0.
+> 405 icons from svelte-octicons@11.1.0.
 
 ## Usage
 
@@ -94,6 +94,8 @@
 - CommentDiscussion16
 - CommentDiscussion24
 - Commit24
+- Container16
+- Container24
 - Copy24
 - Cpu16
 - Cpu24
@@ -352,6 +354,7 @@
 - SquareFill16
 - SquareFill24
 - Squirrel16
+- Squirrel24
 - Star16
 - Star24
 - StarFill16

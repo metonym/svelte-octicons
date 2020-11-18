@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [11.2.0](https://github.com/metonym/svelte-octicons/releases/tag/v11.2.0) - 2020-11-17
 
-- Upgrade @primer/octicons to version 11.1.0 (new +3 icons)
+- Upgrade @primer/octicons to version 11.1.0 (net +3 icons)
 
 ## [11.1.0](https://github.com/metonym/svelte-octicons/releases/tag/v11.1.0) - 2020-09-08
 

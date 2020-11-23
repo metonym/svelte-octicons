@@ -55,7 +55,7 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
 - on:mouseout
 - on:keydown
 
-## All octicons
+## Rendering octicons using `svelte:component`
 
 ```svelte
 <script>
@@ -63,10 +63,10 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
 </script>
 
 {#each Object.keys(Octicons) as octicon}
-<div>
-  <svelte:component title="{octicon}" this={Octicons[octicon]} />
-  {octicon}
-</div>
+  <div>
+    <svelte:component title="{octicon}" this={Octicons[octicon]} />
+    {octicon}
+  </div>
 {/each}
 ```
 

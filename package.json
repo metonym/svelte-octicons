@@ -10,7 +10,7 @@
   "scripts": {
     "dev": "rollup -cw",
     "build": "rollup -c",
-    "deploy": "npx gh-pages -d dist",
+    "deploy": "npx gh-pages -d public",
     "prepack": "node build"
   },
   "devDependencies": {

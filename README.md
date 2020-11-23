@@ -13,7 +13,7 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1
 
 ## Install
 
-```sh
+```bash
 yarn add -D svelte-octicons
 # OR
 npm i -D svelte-octicons
@@ -35,10 +35,10 @@ npm i -D svelte-octicons
 
 ```svelte
 <script>
-  import Alert16 from "svelte-octicons/lib/Alert16.svelte";
+  import Alert24 from "svelte-octicons/lib/Alert24.svelte";
 </script>
 
-<Alert16 />
+<Alert24 />
 ```
 
 Refer to [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
@@ -55,13 +55,28 @@ Refer to [ICON_INDEX.md](ICON_INDEX.md) for list of icons.
 - on:mouseout
 - on:keydown
 
+## All octicons
+
+```svelte
+<script>
+  import * as Octicons from "svelte-octicons";
+</script>
+
+{#each Object.keys(Octicons) as octicon}
+<div>
+  <svelte:component title="{octicon}" this={Octicons[octicon]} />
+  {octicon}
+</div>
+{/each}
+```
+
 ## [Changelog](CHANGELOG.md)
 
 ## License
 
 [MIT](LICENSE)
 
-[npm]: https://img.shields.io/npm/v/svelte-octicons.svg?color=blue
+[npm]: https://img.shields.io/npm/v/svelte-octicons.svg?color=%230366d6
 [npm-url]: https://npmjs.com/package/svelte-octicons
 [build]: https://travis-ci.com/metonym/svelte-octicons.svg?branch=master
 [build-badge]: https://travis-ci.com/metonym/svelte-octicons

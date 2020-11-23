@@ -422,10 +422,10 @@ supports-color@^7.0.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-readme@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.npmjs.org/svelte-readme/-/svelte-readme-0.3.0.tgz#63f73f43f587bb50597f2cfada39f3f6b95cd39a"
-  integrity sha512-QU4ZLg34KrvpD8SbXXKPgNXS87uu6sImn+AUfW9KHicBXeC0wU7FgKvNbBYs0drSOygK7keJNFlMzrAJHnUrng==
+svelte-readme@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.npmjs.org/svelte-readme/-/svelte-readme-0.3.1.tgz#8d8e1461fb2b6eead13fc66d0f66201cb769be7f"
+  integrity sha512-MghClHhWJ/EIhuC9JMEowb42Z19c1WVJ1dwQGvTYCMvb+qDLpbU2XkShlH7kL3wN5BAbAwYWP0Y3BVVcDm7kBg==
   dependencies:
     "@rollup/plugin-node-resolve" "^10.0.0"
     "@rollup/plugin-virtual" "^2.0.3"

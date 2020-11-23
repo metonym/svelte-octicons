@@ -194,6 +194,11 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
+is-absolute-url@^3.0.0:
+  version "3.0.3"
+  resolved "https://registry.npmjs.org/is-absolute-url/-/is-absolute-url-3.0.3.tgz#96c6a22b6a23929b11ea0afb1836c36ad4a5d698"
+  integrity sha512-opmNIX7uFnS96NtPmhWQgQx6/NYFgsUXYMllcfzwWKUMwfo8kku1TvE6hkNcH+Q1ts5cMVrsY7j0bxXQDciu9Q==
+
 is-core-module@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/is-core-module/-/is-core-module-2.0.0.tgz#58531b70aed1db7c0e8d4eb1a0a2d1ddd64bd12d"
@@ -205,6 +210,13 @@ is-module@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/is-module/-/is-module-1.0.0.tgz#3258fb69f78c14d5b815d664336b4cffb6441591"
   integrity sha1-Mlj7afeMFNW4FdZkM2tM/7ZEFZE=
+
+is-relative-url@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.npmjs.org/is-relative-url/-/is-relative-url-3.0.0.tgz#f623c8e26baa5bd3742b3b7ec074f50f3b45b3f3"
+  integrity sha512-U1iSYRlY2GIMGuZx7gezlB5dp1Kheaym7zKzO1PV06mOihiWTXejLwm4poEJysPyXF+HtK/BEd0DVlcCh30pEA==
+  dependencies:
+    is-absolute-url "^3.0.0"
 
 jest-worker@^26.2.1:
   version "26.6.2"
@@ -248,10 +260,20 @@ merge-stream@^2.0.0:
   resolved "https://registry.npmjs.org/merge-stream/-/merge-stream-2.0.0.tgz#52823629a14dd00c9770fb6ad47dc6310f2c1f60"
   integrity sha512-abv/qOcuPfk3URPfDzmZU1LKmuw8kT+0nIHvKrKgFrwifol/doWcdA4ZqsWQ8ENrFKkd67Mfpo/LovbIUsbt3w==
 
+mime@>=2.4.6:
+  version "2.4.6"
+  resolved "https://registry.npmjs.org/mime/-/mime-2.4.6.tgz#e5b407c90db442f2beb5b162373d07b69affa4d1"
+  integrity sha512-RZKhC3EmpBchfTGBVb8fb+RL2cWyw/32lshnsETttkBAyAUXSGHxbEJWWRXc751DrIxG1q04b8QwMbAwkRPpUA==
+
 object-assign@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
   integrity sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM=
+
+opener@1:
+  version "1.5.2"
+  resolved "https://registry.npmjs.org/opener/-/opener-1.5.2.tgz#5d37e1f35077b9dcac4301372271afdeb2a13598"
+  integrity sha512-ur5UIdyw5Y7yEj9wLzhqXiy6GZ3Mwx0yGI+5sMn2r0N0v3cKJvUmFH5yPP+WXh9e0xfyzyJX95D8l088DNFj7A==
 
 path-parse@^1.0.6:
   version "1.0.6"
@@ -304,6 +326,14 @@ resolve@^1.17.0:
   dependencies:
     is-core-module "^2.0.0"
     path-parse "^1.0.6"
+
+rollup-plugin-serve@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/rollup-plugin-serve/-/rollup-plugin-serve-1.1.0.tgz#0654a57021a21b903340c69940f7463706e8288d"
+  integrity sha512-pYkSsuA0/psKqhhictkJw1c2klya5b+LlCvipWqI9OE1aG2M97mRumZCbBlry5CMEOzYBBgSDgd1694sNbmyIw==
+  dependencies:
+    mime ">=2.4.6"
+    opener "1"
 
 rollup-plugin-svelte@^6.1.1:
   version "6.1.1"
@@ -392,18 +422,21 @@ supports-color@^7.0.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-readme@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.npmjs.org/svelte-readme/-/svelte-readme-0.1.2.tgz#210d3bfe61892bb31dc0afa0c28eadaf8ce1450c"
-  integrity sha512-pM7hMZn3PinaSJuOBBlaMSRBMsHoTI7L0Yy5sB6GWctE9JTc5Pd6Uw8t37BihLMfHZKT0ZUciNHqLJm/UlRCjQ==
+svelte-readme@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.npmjs.org/svelte-readme/-/svelte-readme-0.3.0.tgz#63f73f43f587bb50597f2cfada39f3f6b95cd39a"
+  integrity sha512-QU4ZLg34KrvpD8SbXXKPgNXS87uu6sImn+AUfW9KHicBXeC0wU7FgKvNbBYs0drSOygK7keJNFlMzrAJHnUrng==
   dependencies:
     "@rollup/plugin-node-resolve" "^10.0.0"
     "@rollup/plugin-virtual" "^2.0.3"
+    is-relative-url "^3.0.0"
     markdown-it "^12.0.2"
     prettier "^2.2.0"
     prettier-plugin-svelte "^1.4.1"
     prism-svelte "^0.4.7"
     prismjs "^1.22.0"
+    rollup "^2.33.3"
+    rollup-plugin-svelte "^6.1.1"
     rollup-plugin-terser "^7.0.2"
 
 svelte@^3.29.7:

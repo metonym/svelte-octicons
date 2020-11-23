@@ -1,4 +1,11 @@
 import svelteReadme from "svelte-readme";
-import pkg from "./package.json";
+import serve from "rollup-plugin-serve";
 
-export default svelteReadme({ minify: !process.env.ROLLUP_WATCH, pkg });
+const DEV = process.env.ROLLUP_WATCH;
+
+export default svelteReadme({
+  minify: !DEV,
+  svelte: { immutable: true },
+  prefixUrl: "https://github.com/metonym/svelte-octicons/tree/master/",
+  plugins: [DEV && serve({ contentBase: "public", port: 3000 })],
+});

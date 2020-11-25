@@ -2,6 +2,6 @@
 /dist
 /lib
 /node_modules
-/public/*.js
+/dist
 yarn-debug.log*
 yarn-error.log*

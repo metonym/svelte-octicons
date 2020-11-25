@@ -9,7 +9,7 @@ This library builds [GitHub Primer Octicons](https://primer.style/octicons/) as 
 
 Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1945f?version=3.20.1).
 
-## [Icon Preview](https://metonym.github.io/svelte-octicons/) · [Icon Index](./ICON_INDEX.md)
+## [Icon Index](ICON_INDEX.md)
 
 ## Install
 

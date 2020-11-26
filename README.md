@@ -1,7 +1,8 @@
 # svelte-octicons
 
-[![NPM][npm]][npm-url]
-[![Build][build]][build-badge]
+![npm](https://img.shields.io/npm/v/svelte-octicons?color=0366d6&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/metonym/svelte-octicons?color=0366d6&style=for-the-badge)
+![Travis (.com)](https://img.shields.io/travis/com/metonym/svelte-octicons?color=28a745&style=for-the-badge)
 
 > GitHub Octicons as Svelte components.
 
@@ -32,6 +33,8 @@ npm i -D svelte-octicons
 ```
 
 ### Direct import
+
+The direct import method is recommended because it can lead to faster compile times.
 
 ```svelte
 <script>
@@ -75,8 +78,3 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for list of icons.
 ## License
 
 [MIT](LICENSE)
-
-[npm]: https://img.shields.io/npm/v/svelte-octicons.svg?color=%230366d6
-[npm-url]: https://npmjs.com/package/svelte-octicons
-[build]: https://travis-ci.com/metonym/svelte-octicons.svg?branch=master
-[build-badge]: https://travis-ci.com/metonym/svelte-octicons

@@ -18,7 +18,7 @@
     "rollup": "^2.33.3",
     "rollup-plugin-svelte": "^7.0.0",
     "svelte": "^3.30.1",
-    "svelte-readme": "^1.0.0"
+    "svelte-readme": "^1.1.0"
   },
   "repository": {
     "type": "git",

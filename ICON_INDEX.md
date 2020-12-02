@@ -4,9 +4,11 @@
 
 ## Usage
 
-```html
+```svelte
 <script>
-  import Icon from "svelte-octicons/lib/{ModuleName}";
+  import { Icon } from "svelte-octicons";
+  // OR
+  import Icon from "svelte-octicons/lib/{ModuleName}.svelte";
 </script>
 
 <Icon />

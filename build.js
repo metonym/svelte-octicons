@@ -3,22 +3,15 @@ const octicons = require("@primer/octicons");
 const { name, devDependencies } = require("./package.json");
 
 const template = ({ width, options, path }) => {
-  return `<script>export let width = ${width}; export let height = ${width};</script><svg
-  aria-hidden="${options["aria-hidden"]}"
-  version="${options.version}"
-  viewBox="${options.viewBox}"
-  {...$$restProps}
-  {width}
-  {height}
+  return `<svg
+  aria-hidden="${options["aria-hidden"]}" version="${options.version}" viewBox="${options.viewBox}"
+  width="${width}"
+  height="${width}"
   ${options.class
     .split(" ")
     .map((name) => `  class:${name}={true}`)
     .join("\n")}
-  on:click
-  on:mouseover
-  on:mouseenter
-  on:mouseleave
-  on:keydown>
+  {...$$restProps}>
     ${path}
   </svg>`;
 };
@@ -54,9 +47,11 @@ function build() {
     devDependencies["@primer/octicons"]
   }.\n
 ## Usage\n
-\`\`\`html
+\`\`\`svelte
 <script>
-  import Icon from "${name}/lib/{ModuleName}";
+  import { Icon } from "${name}";
+  // OR
+  import Icon from "${name}/lib/{ModuleName}.svelte";
 </script>
 
 <Icon />

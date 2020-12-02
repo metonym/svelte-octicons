@@ -48,15 +48,7 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for list of icons.
 
 `$$restProps` are forwarded to the `svg` element.
 
-### Forwarded events
-
-- on:click
-- on:mouseover
-- on:mouseenter
-- on:mouseout
-- on:keydown
-
-## Rendering octicons using `svelte:component`
+## Using `svelte:component`
 
 ```svelte
 <script>

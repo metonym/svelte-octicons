@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [12.0.0](https://github.com/metonym/svelte-octicons/releases/tag/v12.0.0) - 2020-12-01
+
+**Breaking Changes**
+
+- events are no longer forwarded to the svg element
+
 ## [11.2.0](https://github.com/metonym/svelte-octicons/releases/tag/v11.2.0) - 2020-11-17
 
 - Upgrade @primer/octicons to version 11.1.0 (net +3 icons)

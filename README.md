@@ -10,6 +10,8 @@ This library builds [GitHub Primer Octicons](https://primer.style/octicons/) as 
 
 Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1945f?version=3.20.1).
 
+<!-- TOC -->
+
 ## Install
 
 ```bash
@@ -48,7 +50,7 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for list of icons.
 
 `$$restProps` are forwarded to the `svg` element.
 
-## Using `svelte:component`
+## Usage with svelte:component
 
 ```svelte
 <script>

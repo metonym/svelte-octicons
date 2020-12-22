@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@primer/octicons@11.1.0":
-  version "11.1.0"
-  resolved "https://registry.npmjs.org/@primer/octicons/-/octicons-11.1.0.tgz#a95dd14e4956365a09a2d8b80bf2fe655c307fea"
-  integrity sha512-qeW4Hu82V0eTKza54nIqud572lrZicy2R6PBX2SVfWlrfRUotpsRi6m/Dvxz/YKL/8xdwBSWgJl8hJXM4V5woA==
+"@primer/octicons@11.2.0":
+  version "11.2.0"
+  resolved "https://registry.npmjs.org/@primer/octicons/-/octicons-11.2.0.tgz#2caaa3a6e56f549be53b4d4004d383fd1120288b"
+  integrity sha512-a9ORJaeu7Kt0LCaawQy8S+ZVPDe1qXJvKZraX0b6R0KXkXjL519rpGUDRiGUlskuxEpVf2kmbVYfqGDDlMGLMg==
   dependencies:
     object-assign "^4.1.1"
 
@@ -306,6 +306,11 @@ lower-case@^1.1.1:
   resolved "https://registry.npmjs.org/lower-case/-/lower-case-1.1.4.tgz#9a2cabd1b9e8e0ae993a4bf7d5875c39c42e8eac"
   integrity sha1-miyr0bno4K6ZOkv31YdcOcQujqw=
 
+markdown-it-anchor@^6.0.1:
+  version "6.0.1"
+  resolved "https://registry.npmjs.org/markdown-it-anchor/-/markdown-it-anchor-6.0.1.tgz#f54b78757d0b61455faf8ced775b39498bd6d6f9"
+  integrity sha512-8qX4r5R6AtXla9HKCouEQ40inw69O5jR4VUXlZySsBLxIXlsJ3Yi9JV6JWPU4ZdA8jWTGDDJjJYNLwQ0W4jCag==
+
 markdown-it@^12.0.2:
   version "12.0.2"
   resolved "https://registry.npmjs.org/markdown-it/-/markdown-it-12.0.2.tgz#4401beae8df8aa2221fc6565a7188e60a06ef0ed"
@@ -437,10 +442,17 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@^2.33.3, rollup@^2.34.0:
+rollup@^2.33.3:
   version "2.34.0"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.34.0.tgz#ecc7f1d4ce2cb88bb51bec2f56b984f3c35b8271"
   integrity sha512-dW5iLvttZzdVehjEuNJ1bWvuMEJjOWGmnuFS82WeKHTGXDkRHQeq/ExdifkSyJv9dLcR86ysKRmrIDyR6O0X8g==
+  optionalDependencies:
+    fsevents "~2.1.2"
+
+rollup@^2.35.1:
+  version "2.35.1"
+  resolved "https://registry.npmjs.org/rollup/-/rollup-2.35.1.tgz#e6bc8d10893556a638066f89e8c97f422d03968c"
+  integrity sha512-q5KxEyWpprAIcainhVy6HfRttD9kutQpHbeqDTWnqAFNJotiojetK6uqmcydNMymBEtC4I8bCYR+J3mTMqeaUA==
   optionalDependencies:
     fsevents "~2.1.2"
 
@@ -498,10 +510,10 @@ supports-color@^7.0.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-readme@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-1.1.0.tgz#35445fa0050a768126f45c20286e273559116a9b"
-  integrity sha512-4VwIYeuccsZGVoc1U7PKSBI6DrUG9e5Hn0QJ53aoremXLt7I6xE6hwtVJWHBmEyuEcJxQ0Xl4lv0Mfm1Gtjp/w==
+svelte-readme@^1.3.1:
+  version "1.3.1"
+  resolved "https://registry.npmjs.org/svelte-readme/-/svelte-readme-1.3.1.tgz#19e62d014832ad7a41322f4c338056b001137dbb"
+  integrity sha512-kiXalmIKMb7wHlMXkZCkaSc0XiXg+fF2QyHDrVMvzPWCyE/KsJuP8e5B4iwpc2egLRy0H5QCLK2pKwf940MikQ==
   dependencies:
     "@rollup/plugin-node-resolve" "^10.0.0"
     "@rollup/plugin-virtual" "^2.0.3"
@@ -509,6 +521,7 @@ svelte-readme@^1.1.0:
     html-minifier "^4.0.0"
     is-relative-url "^3.0.0"
     markdown-it "^12.0.2"
+    markdown-it-anchor "^6.0.1"
     prettier "^2.2.1"
     prettier-plugin-svelte "^1.4.1"
     prism-svelte "^0.4.7"
@@ -517,10 +530,10 @@ svelte-readme@^1.1.0:
     rollup-plugin-svelte "^6.1.1"
     rollup-plugin-terser "^7.0.2"
 
-svelte@^3.30.1:
-  version "3.30.1"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.30.1.tgz#9352bf7bc82277353cfaa3a6afc46d3aa3563e0d"
-  integrity sha512-Qs3/5CiDhrtM+t8AaPJz0T99sv/I5pgQP0KnpBPAtMGY+MR4NWUPyOqWqPYhoV0QMNLfmSi/DACUUwwyEraEPA==
+svelte@^3.31.0:
+  version "3.31.0"
+  resolved "https://registry.npmjs.org/svelte/-/svelte-3.31.0.tgz#13966e5f55b975bc86675469bb2c58dd0e558d97"
+  integrity sha512-r+n8UJkDqoQm1b+3tA3Lh6mHXKpcfOSOuEuIo5gE2W9wQYi64RYX/qE6CZBDDsP/H4M+N426JwY7XGH4xASvGQ==
 
 terser@^5.0.0:
   version "5.5.0"

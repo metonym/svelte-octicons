@@ -1,6 +1,6 @@
 # Icon Index
 
-> 405 icons from svelte-octicons@11.1.0.
+> 407 icons from svelte-octicons@11.2.0.
 
 ## Usage
 
@@ -365,6 +365,8 @@
 - Stop24
 - Stopwatch16
 - Stopwatch24
+- Strikethrough16
+- Strikethrough24
 - Sun16
 - Sun24
 - Sync16

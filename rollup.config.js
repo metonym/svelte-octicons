@@ -3,7 +3,6 @@ import svelteReadme from "svelte-readme";
 export default svelteReadme({
   minify: !process.env.ROLLUP_WATCH,
   svelte: { immutable: true },
-  prefixUrl: "https://github.com/metonym/svelte-octicons/tree/master/",
   style: `
     .code-fence > div {
       display: inline-flex;

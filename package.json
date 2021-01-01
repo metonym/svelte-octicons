@@ -15,8 +15,6 @@
   },
   "devDependencies": {
     "@primer/octicons": "11.2.0",
-    "rollup": "^2.35.1",
-    "rollup-plugin-svelte": "^7.0.0",
     "svelte": "^3.31.0",
     "svelte-readme": "^2.1.2"
   },

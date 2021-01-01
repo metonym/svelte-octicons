@@ -2,6 +2,3 @@
 /dist
 /lib
 /node_modules
-/dist
-yarn-debug.log*
-yarn-error.log*

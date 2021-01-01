@@ -2,7 +2,6 @@
 
 ![npm](https://img.shields.io/npm/v/svelte-octicons?color=0366d6&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/metonym/svelte-octicons?color=0366d6&style=for-the-badge)
-![Travis (.com)](https://img.shields.io/travis/com/metonym/svelte-octicons?color=28a745&style=for-the-badge)
 
 > GitHub Octicons as Svelte components.
 
@@ -24,24 +23,13 @@ npm i -D svelte-octicons
 
 ### Base import
 
+<!-- prettier-ignore-start -->
 ```svelte
 <script>
   import { Alert16 } from "svelte-octicons";
 </script>
 
 <Alert16 />
-```
-
-### Direct import
-
-The direct import method is recommended because it can lead to faster compile times.
-
-```svelte
-<script>
-  import Alert24 from "svelte-octicons/lib/Alert24.svelte";
-</script>
-
-<Alert24 />
 ```
 
 Refer to [ICON_INDEX.md](./ICON_INDEX.md) for list of icons.
@@ -52,6 +40,7 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for list of icons.
 
 ## Usage with svelte:component
 
+<!-- prettier-ignore-start -->
 ```svelte
 <script>
   import * as Octicons from "svelte-octicons";
@@ -64,6 +53,7 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for list of icons.
   </div>
 {/each}
 ```
+<!-- prettier-ignore-end -->
 
 ## [Changelog](./CHANGELOG.md)
 

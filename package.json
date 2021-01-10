@@ -6,6 +6,7 @@
   "author": "Eric Liu (https://github.com/metonym)",
   "svelte": "./lib/index.js",
   "main": "./lib/index.js",
+  "types": "./types/index.d.ts",
   "sideEffects": false,
   "scripts": {
     "dev": "rollup -cw",
@@ -15,8 +16,9 @@
   },
   "devDependencies": {
     "@primer/octicons": "11.2.0",
-    "svelte": "^3.31.0",
-    "svelte-readme": "^2.1.2"
+    "svelte": "^3.31.2",
+    "svelte-check": "^1.1.26",
+    "svelte-readme": "^2.2.0"
   },
   "repository": {
     "type": "git",
@@ -34,6 +36,7 @@
     "svg"
   ],
   "files": [
-    "lib"
+    "lib",
+    "types"
   ]
 }

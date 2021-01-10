@@ -1,13 +1,16 @@
 # svelte-octicons
 
-![npm](https://img.shields.io/npm/v/svelte-octicons?color=0366d6&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/metonym/svelte-octicons?color=0366d6&style=for-the-badge)
+![npm](https://img.shields.io/npm/v/svelte-octicons?color=%23ff3e00&style=for-the-badge)
 
 > GitHub Octicons as Svelte components.
 
 This library builds [GitHub Primer Octicons](https://primer.style/octicons/) as Svelte components with zero dependencies.
 
 Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1945f?version=3.20.1).
+
+<!-- REPO_URL -->
+
+---
 
 <!-- TOC -->
 
@@ -23,20 +26,21 @@ npm i -D svelte-octicons
 
 ### Base import
 
+`$$restProps` are forwarded to the `svg` element.
+
 <!-- prettier-ignore-start -->
 ```svelte
 <script>
-  import { Alert16 } from "svelte-octicons";
+  import { Alert16, Octoface16, Rocket16 } from "svelte-octicons";
 </script>
 
 <Alert16 />
+<Octoface16 />
+<Rocket16 />
 ```
 
 Refer to [ICON_INDEX.md](./ICON_INDEX.md) for list of icons.
 
-## API
-
-`$$restProps` are forwarded to the `svg` element.
 
 ## Usage with svelte:component
 
@@ -48,14 +52,20 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for list of icons.
 
 {#each Object.keys(Octicons) as octicon}
   <div>
-    <svelte:component title="{octicon}" this={Octicons[octicon]} />
+    <svelte:component this={Octicons[octicon]} />
     {octicon}
   </div>
 {/each}
 ```
 <!-- prettier-ignore-end -->
 
-## [Changelog](./CHANGELOG.md)
+## TypeScript
+
+Svelte version 3.31 or greater is required to use this library with TypeScript.
+
+## Changelog
+
+[Changelog](./CHANGELOG.md)
 
 ## License
 

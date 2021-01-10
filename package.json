@@ -12,7 +12,8 @@
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
     "deploy": "npx gh-pages -d dist",
-    "prepack": "node build"
+    "prepack": "node build",
+    "svelte-check": "svelte-check --workspace=test"
   },
   "devDependencies": {
     "@primer/octicons": "11.2.0",

@@ -1,7 +1,7 @@
 <script lang="ts">
-  import { Alert16, Octoface16, Rocket16 } from "./types";
-  import Version24 from "./types/Verified24";
-  import * as Octicons from "./types";
+  import { Alert16, Octoface16, Rocket16 } from "../types";
+  import Version24 from "../types/Verified24";
+  import * as Octicons from "../types";
 </script>
 
 <Alert16 class="icon" />

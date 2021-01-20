@@ -24,6 +24,8 @@ npm i -D svelte-octicons
 
 ## Usage
 
+Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a list of available icons.
+
 ### Base import
 
 `$$restProps` are forwarded to the `svg` element.
@@ -38,9 +40,7 @@ npm i -D svelte-octicons
 <Octoface16 />
 <Rocket16 />
 ```
-
-Refer to [ICON_INDEX.md](./ICON_INDEX.md) for list of icons.
-
+<!-- prettier-ignore-end -->
 
 ## Usage with svelte:component
 

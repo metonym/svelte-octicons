@@ -19,7 +19,7 @@
     "@primer/octicons": "11.2.0",
     "svelte": "^3.31.2",
     "svelte-check": "^1.1.26",
-    "svelte-readme": "^2.2.0"
+    "svelte-readme": "^3.0.0"
   },
   "repository": {
     "type": "git",

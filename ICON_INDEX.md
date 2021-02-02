@@ -1,6 +1,6 @@
 # Icon Index
 
-> 407 icons from svelte-octicons@11.2.0.
+> 411 icons from svelte-octicons@11.3.0.
 
 ## Usage
 
@@ -267,6 +267,8 @@
 - NorthStar24
 - Note16
 - Note24
+- Number16
+- Number24
 - Octoface16
 - Octoface24
 - Organization16
@@ -413,6 +415,8 @@
 - Verified24
 - Versions16
 - Versions24
+- Video16
+- Video24
 - Workflow16
 - Workflow24
 - X16

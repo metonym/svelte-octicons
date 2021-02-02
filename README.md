@@ -33,12 +33,13 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a list of available icons.
 <!-- prettier-ignore-start -->
 ```svelte
 <script>
-  import { Alert16, Octoface16, Rocket16 } from "svelte-octicons";
+  import { Alert16, Octoface16, Rocket16, Video16 } from "svelte-octicons";
 </script>
 
 <Alert16 />
 <Octoface16 />
 <Rocket16 />
+<Video16 />
 ```
 <!-- prettier-ignore-end -->
 

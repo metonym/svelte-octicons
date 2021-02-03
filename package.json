@@ -1,6 +1,6 @@
 {
   "name": "svelte-octicons",
-  "version": "12.3.0",
+  "version": "12.3.1",
   "license": "MIT",
   "description": "GitHub Octicons as Svelte components",
   "author": "Eric Liu (https://github.com/metonym)",
@@ -12,7 +12,7 @@
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
     "deploy": "npx gh-pages -d dist",
-    "prepack": "node build",
+    "prepack": "node build && npx sveld",
     "svelte-check": "svelte-check --workspace=test"
   },
   "devDependencies": {

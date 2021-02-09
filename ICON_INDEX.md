@@ -1,6 +1,6 @@
 # Icon Index
 
-> 411 icons from svelte-octicons@11.3.0.
+> 414 icons from svelte-octicons@12.0.0.
 
 ## Usage
 
@@ -59,6 +59,7 @@
 - Broadcast24
 - Browser16
 - Bug16
+- Bug24
 - Calendar16
 - Calendar24
 - Check16
@@ -259,6 +260,8 @@
 - Moon24
 - MortarBoard16
 - MortarBoard24
+- MultiSelect16
+- MultiSelect24
 - Mute16
 - Mute24
 - NoEntry16
@@ -389,8 +392,8 @@
 - Thumbsup24
 - Tools16
 - Tools24
+- Trash16
 - Trash24
-- Trashcan16
 - TriangleDown16
 - TriangleDown24
 - TriangleLeft16

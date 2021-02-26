@@ -16,9 +16,9 @@
     "svelte-check": "svelte-check --workspace=test"
   },
   "devDependencies": {
-    "@primer/octicons": "12.0.0",
-    "svelte": "^3.32.2",
-    "svelte-check": "^1.1.33",
+    "@primer/octicons": "12.1.0",
+    "svelte": "^3.34.0",
+    "svelte-check": "^1.1.36",
     "svelte-readme": "^3.0.0"
   },
   "repository": {

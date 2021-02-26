@@ -43,6 +43,14 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a list of available icons.
 ```
 <!-- prettier-ignore-end -->
 
+### Custom fill
+
+<!-- prettier-ignore-start -->
+```svelte
+<Alert16 fill="red" />
+```
+<!-- prettier-ignore-end -->
+
 ## Usage with svelte:component
 
 <!-- prettier-ignore-start -->

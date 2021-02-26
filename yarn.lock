@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@primer/octicons@12.0.0":
-  version "12.0.0"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-12.0.0.tgz#cbd41af86f381bdf8303201da0d01835ecb97969"
-  integrity sha512-R3HgUaKpQQnDS1aYN0R+e3ADawsyBuvOHjzYj4ds1AJMwvV18u+Zf2/C1+kQcnWDEM5ZizANU6iQbhYrgPUcPg==
+"@primer/octicons@12.1.0":
+  version "12.1.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-12.1.0.tgz#770c8395dc54604637c56ccb261707f9e9d59ddb"
+  integrity sha512-jayKLMTCx/0zh4fjYmkxdlEgQ8STwevn5S48fkvi/03asITmBkaYAMPrUgO8VNSQkSPHIEuc3oTLXgh+JwH0UQ==
   dependencies:
     object-assign "^4.1.1"
 
@@ -727,10 +727,10 @@ supports-color@^7.0.0, supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-check@^1.1.33:
-  version "1.1.33"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-1.1.33.tgz#5e6a7263b3f8a8f0e51d6df705aec4b26a3fd096"
-  integrity sha512-YsplRdToDiH0nFrHbQBap3subpar53E+95wHOVP8dzaXjbJkfkv3yQQAAFIbCUUcbqvZ2FjO2lBFpHZPP3mNRw==
+svelte-check@^1.1.36:
+  version "1.1.36"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-1.1.36.tgz#b3998b5196946501c6e09b4775c096161a96eecc"
+  integrity sha512-vJ5/GGCNUlTtI0Ep6kD/oeISUSEvPBeY+uPT5B1koBxyo10wfkucReJiuDvyNpWokJ9v5C8TL2TeJ27/AyUhdg==
   dependencies:
     chalk "^4.0.0"
     chokidar "^3.4.1"
@@ -771,10 +771,10 @@ svelte-readme@^3.0.0:
     rollup-plugin-svelte "^7.0.0"
     rollup-plugin-terser "^7.0.2"
 
-svelte@^3.32.2:
-  version "3.32.2"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.32.2.tgz#c3a370b951ea2e0730dfd314b5fa57fd93ece399"
-  integrity sha512-Zxh1MQQl/+vnToKbU1Per+PoMN8Jb2MeKJcGxiOsCGR677hXw7jkMfbnNXq33+dxIzV/HfA4xtoSPJrqeB0VUg==
+svelte@^3.34.0:
+  version "3.34.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.34.0.tgz#a0195a0db0305d78df87520711317b99e6fb8a26"
+  integrity sha512-xWcaQ/J4Yd5k0UWz+ef6i5RW5WP3hNpluEI2qtTTKlMOXERHpVL509O9lIw7sgEn1JjJgTOS+lnnDj99vQ3YqQ==
 
 terser@^5.0.0:
   version "5.5.0"

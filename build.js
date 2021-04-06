@@ -1,10 +1,12 @@
 const fs = require("fs");
 const octicons = require("@primer/octicons");
-const { name, devDependencies } = require("./package.json");
+const { name, version } = require("./package.json");
 
 const template = ({ width, options, path }) => {
   return `<svg
-  aria-hidden="${options["aria-hidden"]}" version="${options.version}" viewBox="${options.viewBox}"
+  aria-hidden="${options["aria-hidden"]}" version="${
+    options.version
+  }" viewBox="${options.viewBox}"
   width="${width}"
   height="${width}"
   ${options.class
@@ -43,9 +45,7 @@ function build() {
   fs.writeFileSync("lib/index.js", imports.join(""));
 
   const index = `# Icon Index\n
-> ${moduleNames.length} icons from ${name}@${
-    devDependencies["@primer/octicons"]
-  }.\n
+> ${moduleNames.length} icons from ${name}@${version}.\n
 ## Usage\n
 \`\`\`svelte
 <script>

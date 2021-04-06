@@ -1,6 +1,6 @@
 # Icon Index
 
-> 414 icons from svelte-octicons@12.1.0.
+> 433 icons from svelte-octicons@13.1.0.
 
 ## Usage
 
@@ -43,6 +43,8 @@
 - BellFill24
 - BellSlash16
 - BellSlash24
+- Blocked16
+- Blocked24
 - Bold16
 - Bold24
 - Book16
@@ -58,6 +60,7 @@
 - Broadcast16
 - Broadcast24
 - Browser16
+- Browser24
 - Bug16
 - Bug24
 - Calendar16
@@ -92,6 +95,12 @@
 - CodeReview24
 - CodeSquare16
 - CodeSquare24
+- Codescan16
+- Codescan24
+- CodescanCheckmark16
+- CodescanCheckmark24
+- Codespaces16
+- Codespaces24
 - Comment16
 - Comment24
 - CommentDiscussion16
@@ -99,7 +108,6 @@
 - Commit24
 - Container16
 - Container24
-- Copy24
 - Cpu16
 - Cpu24
 - CreditCard16
@@ -110,6 +118,8 @@
 - Dash24
 - Database16
 - Database24
+- Dependabot16
+- Dependabot24
 - DesktopDownload16
 - DesktopDownload24
 - DeviceCamera16
@@ -132,6 +142,8 @@
 - DotFill24
 - Download16
 - Download24
+- Duplicate16
+- Duplicate24
 - Ellipsis16
 - Eye16
 - Eye24
@@ -212,7 +224,6 @@
 - Infinity24
 - Info16
 - Info24
-- Insights24
 - IssueClosed16
 - IssueClosed24
 - IssueOpened16
@@ -291,6 +302,8 @@
 - People24
 - Person16
 - Person24
+- PersonAdd16
+- PersonAdd24
 - Pin16
 - Pin24
 - Play16
@@ -348,6 +361,10 @@
 - ShieldLock24
 - ShieldX16
 - ShieldX24
+- SidebarCollapse16
+- SidebarCollapse24
+- SidebarExpand16
+- SidebarExpand24
 - SignIn16
 - SignIn24
 - SignOut16
@@ -377,6 +394,8 @@
 - Sync16
 - Sync24
 - Tab24
+- Table16
+- Table24
 - Tag16
 - Tag24
 - Tasklist16

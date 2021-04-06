@@ -4,11 +4,11 @@
 
 > GitHub Octicons as Svelte components.
 
+<!-- REPO_URL -->
+
 This library builds [GitHub Primer Octicons](https://primer.style/octicons/) as Svelte components with zero dependencies.
 
-Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1945f?version=3.20.1).
-
-<!-- REPO_URL -->
+Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1945f).
 
 ---
 
@@ -30,7 +30,6 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a list of available icons.
 
 `$$restProps` are forwarded to the `svg` element.
 
-<!-- prettier-ignore-start -->
 ```svelte
 <script>
   import { Alert16, Octoface16, Rocket16, Video16 } from "svelte-octicons";
@@ -40,20 +39,18 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a list of available icons.
 <Octoface16 />
 <Rocket16 />
 <Video16 />
+
 ```
-<!-- prettier-ignore-end -->
 
 ### Custom fill
 
-<!-- prettier-ignore-start -->
 ```svelte
 <Alert16 fill="red" />
+
 ```
-<!-- prettier-ignore-end -->
 
 ## Usage with svelte:component
 
-<!-- prettier-ignore-start -->
 ```svelte
 <script>
   import * as Octicons from "svelte-octicons";
@@ -65,8 +62,8 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a list of available icons.
     {octicon}
   </div>
 {/each}
+
 ```
-<!-- prettier-ignore-end -->
 
 ## TypeScript
 

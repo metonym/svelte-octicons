@@ -1,0 +1,19 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: monthly
+    time: "13:00"
+  open-pull-requests-limit: 10
+  versioning-strategy: increase
+  ignore:
+  - dependency-name: svelte
+    versions:
+    - 3.32.1
+  - dependency-name: svelte-readme
+    versions:
+    - 3.0.0
+  - dependency-name: svelte-check
+    versions:
+    - 1.1.31

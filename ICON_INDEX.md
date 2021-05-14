@@ -1,6 +1,6 @@
 # Icon Index
 
-> 443 icons from svelte-octicons@13.2.0.
+> 443 icons from svelte-octicons@14.0.0.
 
 ## Usage
 

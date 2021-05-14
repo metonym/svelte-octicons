@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@primer/octicons@13.0.0":
-  version "13.0.0"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-13.0.0.tgz#dab1f156ac601d2cb7c83eab9242a1739429cf2e"
-  integrity sha512-kMNu3Ny3eocOTl2hxRC0YX0na7zJwpSIQNiZqmyqbLMKp2YwNAwk5Tan4RLGe35f30st+EbNq15dEjiMzslAcw==
+"@primer/octicons@14.0.0":
+  version "14.0.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-14.0.0.tgz#cc1f1e9d605258a71ab27a153fcf4368f527d8ad"
+  integrity sha512-HPBYOIycv0RRq0GX+J33fM5qM0npEldeD8ZcZhbvJgQ21yFCmN0drhjdcgvWszqNb9PxqEZYEZoNHVtGqcTQ7w==
   dependencies:
     object-assign "^4.1.1"
 
@@ -727,10 +727,10 @@ supports-color@^7.0.0, supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-check@^1.5.2:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-1.5.2.tgz#783f48a8e3b3e484b3bcfb990ff5102348c63a23"
-  integrity sha512-x9Pc13r814TKrMXY70IyqDEmPzuFiqNSpBmsrMKrFpi995MiG+lmqYnyw8iQC+DGh7H3eUt3LIFXbNd396XIFw==
+svelte-check@^1.5.4:
+  version "1.5.4"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-1.5.4.tgz#9e37a36c30dbf75caa729f507e925424c67a237b"
+  integrity sha512-0rnBT2uqgYQeVsLJYZqAjkZn0k2TiphbOv7p602QmRMPT5VqFrkAaomZm5l4K3coxGSJlC0tDEVCKCQJ6i2jqw==
   dependencies:
     chalk "^4.0.0"
     chokidar "^3.4.1"
@@ -771,10 +771,10 @@ svelte-readme@^3.1.0:
     rollup-plugin-svelte "^7.0.0"
     rollup-plugin-terser "^7.0.2"
 
-svelte@^3.38.0:
-  version "3.38.0"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.38.0.tgz#8ac83558bc7beda7541fc4a347b03cf7006d5447"
-  integrity sha512-V0CbyzvXEka7zQtRYt++cpPh0zxxDUTIeNlq4KncGXn2qHnQFZ2i4L4+2QOfLwOudb9cewJeegupBQcscnBaaA==
+svelte@^3.38.2:
+  version "3.38.2"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.38.2.tgz#55e5c681f793ae349b5cc2fe58e5782af4275ef5"
+  integrity sha512-q5Dq0/QHh4BLJyEVWGe7Cej5NWs040LWjMbicBGZ+3qpFWJ1YObRmUDZKbbovddLC9WW7THTj3kYbTOFmU9fbg==
 
 terser@^5.0.0:
   version "5.5.0"

@@ -1,6 +1,6 @@
 # Icon Index
 
-> 433 icons from svelte-octicons@13.2.0.
+> 443 icons from svelte-octicons@13.2.0.
 
 ## Usage
 
@@ -101,6 +101,8 @@
 - CodescanCheckmark24
 - Codespaces16
 - Codespaces24
+- Columns16
+- Columns24
 - Comment16
 - Comment24
 - CommentDiscussion16
@@ -129,6 +131,8 @@
 - DeviceDesktop24
 - DeviceMobile16
 - DeviceMobile24
+- Diamond16
+- Diamond24
 - Diff16
 - Diff24
 - DiffAdded16
@@ -188,7 +192,6 @@
 - GitCommit24
 - GitCompare16
 - GitCompare24
-- GitFork24
 - GitMerge16
 - GitMerge24
 - GitPullRequest16
@@ -199,6 +202,8 @@
 - Grabber24
 - Graph16
 - Graph24
+- Hash16
+- Hash24
 - Heading16
 - Heading24
 - Heart16
@@ -226,6 +231,8 @@
 - Info24
 - IssueClosed16
 - IssueClosed24
+- IssueDraft16
+- IssueDraft24
 - IssueOpened16
 - IssueOpened24
 - IssueReopened16
@@ -283,8 +290,6 @@
 - Note24
 - Number16
 - Number24
-- Octoface16
-- Octoface24
 - Organization16
 - Organization24
 - Package16
@@ -328,6 +333,7 @@
 - Repo24
 - RepoClone16
 - RepoForked16
+- RepoForked24
 - RepoPull16
 - RepoPush16
 - RepoPush24
@@ -337,6 +343,8 @@
 - Report24
 - Rocket16
 - Rocket24
+- Rows16
+- Rows24
 - Rss16
 - Rss24
 - Ruby16
@@ -347,6 +355,7 @@
 - ScreenNormal24
 - Search16
 - Search24
+- SelectSingle16
 - Server16
 - Server24
 - Share16
@@ -369,6 +378,7 @@
 - SignIn24
 - SignOut16
 - SignOut24
+- SingleSelect24
 - Skip16
 - Skip24
 - Smiley16

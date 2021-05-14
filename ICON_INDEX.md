@@ -1,6 +1,6 @@
 # Icon Index
 
-> 443 icons from svelte-octicons@14.0.0.
+> 447 icons from svelte-octicons@14.0.0.
 
 ## Usage
 
@@ -196,6 +196,10 @@
 - GitMerge24
 - GitPullRequest16
 - GitPullRequest24
+- GitPullRequestClosed16
+- GitPullRequestClosed24
+- GitPullRequestDraft16
+- GitPullRequestDraft24
 - Globe16
 - Globe24
 - Grabber16

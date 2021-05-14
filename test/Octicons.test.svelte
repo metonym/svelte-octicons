@@ -1,11 +1,11 @@
 <script lang="ts">
-  import { Alert16, Octoface16, Rocket16, Duplicate16 } from "../types";
+  import { Alert16, Rows16, Rocket16, Duplicate16 } from "../types";
   import Version24 from "../types/Verified24";
   import * as Octicons from "../types";
 </script>
 
 <Alert16 class="icon" />
-<Octoface16 style="red" />
+<Rows16 style="red" />
 <Rocket16 width="20" />
 <Version24 />
 <Duplicate16 />

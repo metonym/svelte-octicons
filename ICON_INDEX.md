@@ -1,6 +1,6 @@
 # Icon Index
 
-> 447 icons from svelte-octicons@14.1.0.
+> 452 icons from svelte-octicons@14.1.0.
 
 ## Usage
 
@@ -247,6 +247,7 @@
 - KebabHorizontal24
 - Key16
 - Key24
+- KeyAsterisk16
 - Law16
 - Law24
 - LightBulb16
@@ -387,6 +388,10 @@
 - Skip24
 - Smiley16
 - Smiley24
+- SortAsc16
+- SortAsc24
+- SortDesc16
+- SortDesc24
 - Square16
 - Square24
 - SquareFill16

@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@primer/octicons@14.2.0":
-  version "14.2.0"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-14.2.0.tgz#3597439b86e8dec94bdaa81e05cc0fec0afe00aa"
-  integrity sha512-xeosxkcz29Ywmn0rI+FxOJCuRkwRrxEz32WGLOmCEdx0tbMsTa3M3JQ9x4x45ByWvfRzWquAp426iV3S09MX9A==
+"@primer/octicons@14.2.1":
+  version "14.2.1"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-14.2.1.tgz#e46a572dea3514d38909ab7c3e5b86c23765baa9"
+  integrity sha512-d3Y9chSzfQGidzkwOxitfw30C1kuKgQGk7Mkd/BiTeGoGeyynF1xa31wxxEkkNcPFyAHuHq9DRPagZqm7N/wWA==
   dependencies:
     object-assign "^4.1.1"
 

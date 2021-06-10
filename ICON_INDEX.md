@@ -1,6 +1,6 @@
 # Icon Index
 
-> 452 icons from svelte-octicons@14.2.1.
+> 452 icons from svelte-octicons@14.2.2.
 
 ## Usage
 

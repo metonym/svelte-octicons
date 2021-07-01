@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@primer/octicons": "14.2.2",
-    "svelte": "^3.38.2",
+    "svelte": "^3.38.3",
     "svelte-check": "^2.1.0",
     "svelte-readme": "^3.1.0"
   },

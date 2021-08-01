@@ -1,20 +1,8 @@
 # Icon Index
 
-> 452 icons from svelte-octicons@14.2.2.
+> 452 total icons
 
-## Usage
-
-```svelte
-<script>
-  import { Icon } from "svelte-octicons";
-  // OR
-  import Icon from "svelte-octicons/lib/{ModuleName}.svelte";
-</script>
-
-<Icon />
-```
-
-## Icons by `ModuleName`
+## Icons
 
 - Alert16
 - Alert24
@@ -85,8 +73,6 @@
 - Circle24
 - CircleSlash16
 - CircleSlash24
-- Clippy16
-- Clippy24
 - Clock16
 - Clock24
 - Code16
@@ -110,6 +96,8 @@
 - Commit24
 - Container16
 - Container24
+- Copy16
+- Copy24
 - Cpu16
 - Cpu24
 - CreditCard16
@@ -146,8 +134,6 @@
 - DotFill24
 - Download16
 - Download24
-- Duplicate16
-- Duplicate24
 - Ellipsis16
 - Eye16
 - Eye24
@@ -306,6 +292,8 @@
 - Paintbrush16
 - PaperAirplane16
 - PaperAirplane24
+- Paste16
+- Paste24
 - Pencil16
 - Pencil24
 - People16
@@ -468,3 +456,4 @@
 - XCircleFill24
 - Zap16
 - Zap24
+

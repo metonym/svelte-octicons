@@ -6,20 +6,21 @@
   "author": "Eric Liu (https://github.com/metonym)",
   "svelte": "./lib/index.js",
   "main": "./lib/index.js",
-  "types": "./types/index.d.ts",
+  "types": "./lib/index.d.ts",
   "sideEffects": false,
   "scripts": {
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
     "deploy": "npx gh-pages -d dist",
-    "prepack": "node build && npx sveld",
+    "prepack": "node build",
     "test": "svelte-check --workspace=test"
   },
   "devDependencies": {
-    "@primer/octicons": "14.2.2",
-    "svelte": "^3.38.3",
-    "svelte-check": "^2.2.0",
-    "svelte-readme": "^3.1.0"
+    "@primer/octicons": "15.0.0",
+    "svelte": "^3.41.0",
+    "svelte-check": "^2.2.3",
+    "svelte-readme": "^3.2.0",
+    "svelvg": "^0.3.0"
   },
   "repository": {
     "type": "git",
@@ -38,7 +39,6 @@
     "typescript"
   ],
   "files": [
-    "lib",
-    "types"
+    "lib"
   ]
 }

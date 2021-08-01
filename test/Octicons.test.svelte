@@ -5,10 +5,10 @@
     Rocket16,
     Duplicate16,
     KeyAsterisk16,
-  } from "../types";
-  import Version24 from "../types/Verified24";
-  import GitPullRequestClosed16 from "../types/GitPullRequestClosed16";
-  import * as Octicons from "../types";
+  } from "../lib";
+  import Version24 from "../lib/Verified24.svelte";
+  import GitPullRequestClosed16 from "../lib/GitPullRequestClosed16.svelte";
+  import * as Octicons from "../lib";
 </script>
 
 <Alert16 class="icon" />

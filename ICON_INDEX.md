@@ -1,6 +1,6 @@
 # Icon Index
 
-> 452 total icons
+> 454 total icons
 
 ## Icons
 
@@ -134,6 +134,8 @@
 - DotFill24
 - Download16
 - Download24
+- Duplicate16
+- Duplicate24
 - Ellipsis16
 - Eye16
 - Eye24

@@ -5,10 +5,10 @@ export default svelteReadme({
     .code-fence > div {
       display: inline-flex;
       flex-direction: column;
+      margin: 4px;
+      padding: 8px;
       border: 1px solid #eaecef;
       border-radius: 4px;
-      padding: 8px;
-      margin: 4px;
     }
 
     .code-fence svg {

@@ -13,15 +13,15 @@
     "predeploy": "rollup -c",
     "deploy": "gh-pages -d dist",
     "prepack": "node build",
-    "test": "svelte-check --workspace=test"
+    "test": "svelte-check --workspace=test/*"
   },
   "devDependencies": {
-    "@primer/octicons": "15.0.0",
+    "@primer/octicons": "15.0.1",
     "gh-pages": "^3.2.3",
-    "svelte": "^3.41.0",
-    "svelte-check": "^2.2.3",
+    "svelte": "^3.42.1",
+    "svelte-check": "^2.2.4",
     "svelte-readme": "^3.2.0",
-    "svelvg": "^0.3.0"
+    "svelvg": "^0.3.1"
   },
   "repository": {
     "type": "git",

@@ -1,5 +1,11 @@
 <script lang="ts">
-  import { Alert16, Rows16, Rocket16, KeyAsterisk16 } from "../lib";
+  import {
+    Alert16,
+    Rows16,
+    Rocket16,
+    KeyAsterisk16,
+    Duplicate16,
+  } from "../lib";
   import Version24 from "../lib/Verified24.svelte";
   import GitPullRequestClosed16 from "../lib/GitPullRequestClosed16.svelte";
   import * as Octicons from "../lib";
@@ -11,6 +17,7 @@
 <Version24 />
 <GitPullRequestClosed16 height="20" />
 <KeyAsterisk16 />
+<Duplicate16 />
 
 {#each Object.keys(Octicons) as octicon}
   <div>

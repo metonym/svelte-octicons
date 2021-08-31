@@ -6,8 +6,8 @@ const svelvg = require("svelvg");
     iconIndex: true,
     appendClassNames: (filename) => {
       const key = filename.slice(0, -3);
-      if (key in octicons) return ['octicon', `octicon-${key}`]
-      return []
+      if (key in octicons) return ['octicon', `octicon-${key}`];
+      return [];
     }
   });
 })();

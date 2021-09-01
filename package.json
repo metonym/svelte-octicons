@@ -21,7 +21,7 @@
     "svelte": "^3.42.4",
     "svelte-check": "^2.2.5",
     "svelte-readme": "^3.3.1",
-    "svelvg": "^0.4.0"
+    "svelvg": "^0.5.0"
   },
   "repository": {
     "type": "git",

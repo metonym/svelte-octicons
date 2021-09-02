@@ -1,6 +1,6 @@
 # Icon Index
 
-> 454 total icons
+> 455 total icons
 
 ## Icons
 
@@ -28,6 +28,7 @@
 - Beaker24
 - Bell16
 - Bell24
+- BellFill16
 - BellFill24
 - BellSlash16
 - BellSlash24

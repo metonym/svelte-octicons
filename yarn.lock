@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@primer/octicons@15.0.1":
-  version "15.0.1"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-15.0.1.tgz#52e362b723c4566e0c55729240aa14d9c1b57f53"
-  integrity sha512-mp1OkOq0tAknXPLGAUPxiMac3HCj4LPPbAfmj847AWb2Tej33YFjUfGA1S2wXmiyP0MARoIdWtrsXt7UCBdVeQ==
+"@primer/octicons@15.1.0":
+  version "15.1.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-15.1.0.tgz#4bf2570d69359bf711aa223200a4d816524ca165"
+  integrity sha512-dRfjeDG+JUNKivxs8xGba34NlLJDbNDGGkYIfLJLT7D/c1UTx6xFc+gPC6IWosVLYoUUnup8CkXDNOfT1d2LxA==
   dependencies:
     object-assign "^4.1.1"
 
@@ -955,10 +955,10 @@ svelte@^3.42.4:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.4.tgz#838ed98fa7b26fc5fffe4df0d7ba345f1c54cf4f"
   integrity sha512-DqC0AmDdBrrbIA+Kzl3yhBb6qCn4vZOAfxye2pTnIpinLegyagC5sLI8Pe9GPlXu9VpHBXIwpDDedpMfu++epA==
 
-svelvg@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.4.0.tgz#34e45f83e54f41eb44526fa05f82fb76c48deaf3"
-  integrity sha512-AQLyI/A7iqjesW4BlhkpGBm4wq9DnB6h+sM7geTylf7Cthnm4ggYUmUJjLeAakdIztbMqcjLVi5xK7WAbLA60w==
+svelvg@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.5.0.tgz#f499088f447151d6d7756713c9569c7c9841d85b"
+  integrity sha512-BfTmwhYjRM8R8vgjkJtPjZuvJJXbTCuALhTI/oraD0GrdEhh/GpXRwJuN+KfCDyhdj9T4krZ7OeOYvX2elQkdw==
   dependencies:
     svelte "^3.42.1"
     tiny-glob "^0.2.9"

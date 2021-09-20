@@ -1,6 +1,6 @@
 # Icon Index
 
-> 455 total icons
+> 461 total icons
 
 ## Icons
 
@@ -305,6 +305,8 @@
 - Person24
 - PersonAdd16
 - PersonAdd24
+- PersonFill16
+- PersonFill24
 - Pin16
 - Pin24
 - Play16
@@ -389,6 +391,8 @@
 - SquareFill24
 - Squirrel16
 - Squirrel24
+- Stack16
+- Stack24
 - Star16
 - Star24
 - StarFill16
@@ -412,6 +416,8 @@
 - Tasklist24
 - Telescope16
 - Telescope24
+- TelescopeFill16
+- TelescopeFill24
 - Terminal16
 - Terminal24
 - ThreeBars16

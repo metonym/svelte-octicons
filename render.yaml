@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: octicons
+    env: static
+    buildCommand: yarn; yarn prepack; yarn rollup -c
+    staticPublishPath: dist
+    pullRequestPreviewsEnabled: true

@@ -1,6 +1,6 @@
 # Icon Index
 
-> 461 total icons
+> 463 total icons
 
 ## Icons
 
@@ -232,6 +232,8 @@
 - IssueReopened24
 - Italic16
 - Italic24
+- Iterations16
+- Iterations24
 - KebabHorizontal16
 - KebabHorizontal24
 - Key16
@@ -353,7 +355,6 @@
 - ScreenNormal24
 - Search16
 - Search24
-- SelectSingle16
 - Server16
 - Server24
 - Share16
@@ -376,6 +377,7 @@
 - SignIn24
 - SignOut16
 - SignOut24
+- SingleSelect16
 - SingleSelect24
 - Skip16
 - Skip24

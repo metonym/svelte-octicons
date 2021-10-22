@@ -1,11 +1,12 @@
 # Icon Index
 
-> 463 total icons
+> 467 total icons
 
 ## Icons
 
 - Alert16
 - Alert24
+- AlertFill12
 - Archive16
 - Archive24
 - ArrowBoth16
@@ -58,6 +59,7 @@
 - Check24
 - CheckCircle16
 - CheckCircle24
+- CheckCircleFill12
 - CheckCircleFill16
 - CheckCircleFill24
 - Checklist16
@@ -280,6 +282,7 @@
 - Mute24
 - NoEntry16
 - NoEntry24
+- NoEntryFill12
 - NorthStar16
 - NorthStar24
 - Note16
@@ -463,6 +466,7 @@
 - X24
 - XCircle16
 - XCircle24
+- XCircleFill12
 - XCircleFill16
 - XCircleFill24
 - Zap16

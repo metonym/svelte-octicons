@@ -1,6 +1,6 @@
 # svelte-octicons
 
-![npm](https://img.shields.io/npm/v/svelte-octicons?color=%23ff3e00&style=for-the-badge)
+[![NPM][npm]][npm-url]
 
 > GitHub Octicons as Svelte components.
 
@@ -82,3 +82,6 @@ Svelte version 3.31 or greater is required to use this library with TypeScript.
 ## License
 
 [MIT](LICENSE)
+
+[npm]: https://img.shields.io/npm/v/svelte-octicons.svg?color=%23ff3e00&style=for-the-badge
+[npm-url]: https://npmjs.com/package/svelte-octicons

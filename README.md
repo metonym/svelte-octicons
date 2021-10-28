@@ -45,30 +45,27 @@ Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a list of available icons.
 <Diamond16 />
 <Rocket16 />
 <Video16 />
-
 ```
 
 ### Custom fill
 
 ```svelte
 <Alert16 fill="red" />
-
 ```
 
-## Usage with svelte:component
+## Usage with `svelte:component`
 
 ```svelte
 <script>
   import * as Octicons from "svelte-octicons";
 </script>
 
-{#each Object.keys(Octicons) as octicon}
+{#each Object.entries(Octicons) as [octicon, component]}
   <div>
-    <svelte:component this={Octicons[octicon]} />
+    <svelte:component this={component} />
     {octicon}
   </div>
 {/each}
-
 ```
 
 ## TypeScript

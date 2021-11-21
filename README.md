@@ -28,6 +28,12 @@ yarn add -D svelte-octicons
 npm i -D svelte-octicons
 ```
 
+**pnpm**
+
+```bash
+pnpm i -D svelte-octicons
+```
+
 ## Usage
 
 Refer to [ICON_INDEX.md](./ICON_INDEX.md) for a list of available icons.

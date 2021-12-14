@@ -7,6 +7,7 @@
     Duplicate16,
     Stack24,
     Iterations16,
+    CodeOfConduct16,
   } from "../lib";
   import Version24 from "../lib/Verified24.svelte";
   import GitPullRequestClosed16 from "../lib/GitPullRequestClosed16.svelte";
@@ -31,6 +32,8 @@
 <Stack24 />
 <!-- svelte-ignore missing-declaration -->
 <Iterations16 />
+<!-- svelte-ignore missing-declaration -->
+<CodeOfConduct16 />
 
 {#each Object.keys(Octicons) as octicon}
   <div>

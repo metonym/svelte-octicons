@@ -1,5 +1,10 @@
 import octicons from "@primer/octicons";
 import { createLibrary } from "svelvg";
+import fs from "fs";
+
+if (fs.existsSync("lib")) {
+  fs.rmdirSync("lib", { recursive: true });
+}
 
 createLibrary("@primer/octicons/build/svg", {
   iconIndex: true,

@@ -1,6 +1,6 @@
 # Icon Index
 
-> 467 total icons
+> 469 total icons
 
 ## Icons
 
@@ -80,6 +80,8 @@
 - Clock24
 - Code16
 - Code24
+- CodeOfConduct16
+- CodeOfConduct24
 - CodeReview16
 - CodeReview24
 - CodeSquare16

@@ -44,10 +44,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@primer/octicons@16.1.1":
-  version "16.1.1"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-16.1.1.tgz#2f4c261952221ae62640fe35bc9ccee65dc70947"
-  integrity sha512-qlMErXg4I7oOofP4d5GceLbNpjTRSkyLoe5Ng1mfebtTvjeBj8x+kdqgwFWLRp7QO1ye5AaxcCvn1AJMAeURzw==
+"@primer/octicons@16.2.0":
+  version "16.2.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-16.2.0.tgz#70d9a275f076171794ebdf652cb1b351811dcfbf"
+  integrity sha512-GMwiKSRuYOCPJpRBtiY+Myfp2DWSjnjaettrl9y4TsWfMk42osYhxEOFZkU2QZT2hAULaVvCqH2zFd+3Ybg4cg==
   dependencies:
     object-assign "^4.1.1"
 
@@ -1076,6 +1076,11 @@ svelte@^3.44.2:
   version "3.44.2"
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.44.2.tgz#3e69be2598308dfc8354ba584cec54e648a50f7f"
   integrity sha512-jrZhZtmH3ZMweXg1Q15onb8QlWD+a5T5Oca4C1jYvSURp2oD35h4A5TV6t6MEa93K4LlX6BkafZPdQoFjw/ylA==
+
+svelte@^3.44.3:
+  version "3.44.3"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.44.3.tgz#795b1ced6ed3da44969099e5061b850c93c95e9a"
+  integrity sha512-aGgrNCip5PQFNfq9e9tmm7EYxWLVHoFsEsmKrtOeRD8dmoGDdyTQ+21xd7qgFd8MNdKGSYvg7F9dr+Tc0yDymg==
 
 svelvg@^0.8.1:
   version "0.8.1"

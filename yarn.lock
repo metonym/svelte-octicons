@@ -1077,10 +1077,10 @@ svelte@^3.44.3:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.44.3.tgz#795b1ced6ed3da44969099e5061b850c93c95e9a"
   integrity sha512-aGgrNCip5PQFNfq9e9tmm7EYxWLVHoFsEsmKrtOeRD8dmoGDdyTQ+21xd7qgFd8MNdKGSYvg7F9dr+Tc0yDymg==
 
-svelvg@^0.8.2:
-  version "0.8.2"
-  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.8.2.tgz#fbf2ac32ebe9335407dd39cac4d7448afc07ec52"
-  integrity sha512-4xF5n4Wlz44enchdiBW/2HMpAQRsqoyU6TUDzjWACAS1Fc5J6rrbpBB3hH69CZQleV2KNKbKz8GrZ8VN9Cksew==
+svelvg@^0.8.3:
+  version "0.8.3"
+  resolved "https://registry.yarnpkg.com/svelvg/-/svelvg-0.8.3.tgz#9d806304dab6d00fd8c2289ded9d9287aea0ceee"
+  integrity sha512-PdMrQKR8aEn0oHGErD41eaSHw7REXNGzVEJJRw2QIcsFOr+YH61+V8IKSLJoo3niv6B1j7tmVXgJkQV6mKFtgg==
   dependencies:
     svelte "^3.44.3"
     tiny-glob "^0.2.9"

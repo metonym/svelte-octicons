@@ -6,6 +6,8 @@ if (fs.existsSync("lib")) {
   fs.rmdirSync("lib", { recursive: true });
 }
 
+fs.mkdirSync("lib");
+
 createLibrary("@primer/octicons/build/svg", {
   iconIndex: true,
   appendClassNames: (filename) => {

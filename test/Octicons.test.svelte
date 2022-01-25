@@ -1,5 +1,6 @@
 <script lang="ts">
   import {
+    Accessibility16,
     Alert16,
     Rows16,
     Rocket16,
@@ -14,25 +15,16 @@
   import * as Octicons from "../lib";
 </script>
 
-<!-- svelte-ignore missing-declaration -->
+<Accessibility16 />
 <Alert16 class="icon" />
-<!-- svelte-ignore missing-declaration -->
 <Rows16 style="red" />
-<!-- svelte-ignore missing-declaration -->
 <Rocket16 width="20" />
-<!-- svelte-ignore missing-declaration -->
 <Version24 />
-<!-- svelte-ignore missing-declaration -->
 <GitPullRequestClosed16 height="20" />
-<!-- svelte-ignore missing-declaration -->
 <KeyAsterisk16 />
-<!-- svelte-ignore missing-declaration -->
 <Duplicate16 />
-<!-- svelte-ignore missing-declaration -->
 <Stack24 />
-<!-- svelte-ignore missing-declaration -->
 <Iterations16 />
-<!-- svelte-ignore missing-declaration -->
 <CodeOfConduct16 />
 
 {#each Object.keys(Octicons) as octicon}

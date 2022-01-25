@@ -1,12 +1,14 @@
 # Icon Index
 
-> 469 total icons
+> 483 total icons
 
 ## Icons
 
+- Accessibility16
 - Alert16
 - Alert24
 - AlertFill12
+- Apps16
 - Archive16
 - Archive24
 - ArrowBoth16
@@ -146,6 +148,13 @@
 - Eye24
 - EyeClosed16
 - EyeClosed24
+- FeedDiscussion16
+- FeedHeart16
+- FeedPerson16
+- FeedRepo16
+- FeedRocket16
+- FeedStar16
+- FeedTag16
 - File16
 - File24
 - FileBadge16
@@ -218,6 +227,7 @@
 - Hourglass24
 - Hubot16
 - Hubot24
+- IdBadge16
 - Image16
 - Image24
 - Inbox16
@@ -259,6 +269,7 @@
 - Location24
 - Lock16
 - Lock24
+- Log16
 - LogoGist16
 - LogoGithub16
 - Mail16
@@ -337,6 +348,7 @@
 - Repo16
 - Repo24
 - RepoClone16
+- RepoDeleted16
 - RepoForked16
 - RepoForked24
 - RepoPull16
@@ -415,6 +427,7 @@
 - Sync16
 - Sync24
 - Tab24
+- TabExternal16
 - Table16
 - Table24
 - Tag16
@@ -462,6 +475,7 @@
 - Versions24
 - Video16
 - Video24
+- Webhook16
 - Workflow16
 - Workflow24
 - X16

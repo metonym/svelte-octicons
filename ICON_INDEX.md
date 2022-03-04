@@ -1,6 +1,6 @@
 # Icon Index
 
-> 483 total icons
+> 490 total icons
 
 ## Icons
 
@@ -149,12 +149,15 @@
 - EyeClosed16
 - EyeClosed24
 - FeedDiscussion16
+- FeedForked16
 - FeedHeart16
+- FeedMerged16
 - FeedPerson16
 - FeedRepo16
 - FeedRocket16
 - FeedStar16
 - FeedTag16
+- FeedTrophy16
 - File16
 - File24
 - FileBadge16
@@ -166,6 +169,7 @@
 - FileDiff24
 - FileDirectory16
 - FileDirectory24
+- FileDirectoryFill16
 - FileDirectoryFill24
 - FileMedia24
 - FileSubmodule16
@@ -351,6 +355,7 @@
 - RepoDeleted16
 - RepoForked16
 - RepoForked24
+- RepoLocked16
 - RepoPull16
 - RepoPush16
 - RepoPush24
@@ -457,6 +462,8 @@
 - TriangleRight24
 - TriangleUp16
 - TriangleUp24
+- Trophy16
+- Trophy24
 - Typography16
 - Typography24
 - Unfold16

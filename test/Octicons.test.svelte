@@ -1,4 +1,5 @@
 <script lang="ts">
+  import type { SvelteComponent } from "svelte";
   import {
     Accessibility16,
     Alert16,
@@ -9,10 +10,13 @@
     Stack24,
     Iterations16,
     CodeOfConduct16,
+    FeedForked16,
   } from "../lib";
   import Version24 from "../lib/Verified24.svelte";
   import GitPullRequestClosed16 from "../lib/GitPullRequestClosed16.svelte";
   import * as Octicons from "../lib";
+
+  let icon: typeof SvelteComponent = FeedForked16;
 </script>
 
 <Accessibility16 />

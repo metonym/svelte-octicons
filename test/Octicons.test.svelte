@@ -19,9 +19,11 @@
   let icon: typeof SvelteComponent = FeedForked16;
 </script>
 
-<Accessibility16 />
+{icon}
+
+<Accessibility16 fill="red" />
 <Alert16 class="icon" />
-<Rows16 style="red" />
+<Rows16 style="color: red" />
 <Rocket16 width="20" />
 <Version24 />
 <GitPullRequestClosed16 height="20" />

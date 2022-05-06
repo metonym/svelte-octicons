@@ -1,6 +1,6 @@
 # Icon Index
 
-> 490 total icons
+> 496 total icons
 
 ## Icons
 
@@ -80,6 +80,10 @@
 - CircleSlash24
 - Clock16
 - Clock24
+- Cloud16
+- Cloud24
+- CloudOffline16
+- CloudOffline24
 - Code16
 - Code24
 - CodeOfConduct16
@@ -171,6 +175,7 @@
 - FileDirectory24
 - FileDirectoryFill16
 - FileDirectoryFill24
+- FileDirectoryOpenFill16
 - FileMedia24
 - FileSubmodule16
 - FileSubmodule24
@@ -403,6 +408,7 @@
 - SingleSelect24
 - Skip16
 - Skip24
+- Sliders16
 - Smiley16
 - Smiley24
 - SortAsc16

@@ -1,6 +1,6 @@
 # Icon Index
 
-> 496 total icons
+> 499 total icons
 
 ## Icons
 
@@ -164,6 +164,7 @@
 - FeedTrophy16
 - File16
 - File24
+- FileAdded16
 - FileBadge16
 - FileBinary16
 - FileBinary24
@@ -177,6 +178,8 @@
 - FileDirectoryFill24
 - FileDirectoryOpenFill16
 - FileMedia24
+- FileMoved16
+- FileRemoved16
 - FileSubmodule16
 - FileSubmodule24
 - FileSymlinkFile16

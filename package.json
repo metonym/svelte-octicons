@@ -16,10 +16,10 @@
     "test": "svelte-check --workspace test"
   },
   "devDependencies": {
-    "@primer/octicons": "17.2.0",
+    "@primer/octicons": "17.3.0",
     "gh-pages": "^4.0.0",
     "svelte": "^3.48.0",
-    "svelte-check": "^2.7.0",
+    "svelte-check": "^2.7.2",
     "svelte-readme": "^3.6.3",
     "svelvg": "^0.10.1"
   },

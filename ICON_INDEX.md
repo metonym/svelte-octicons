@@ -1,6 +1,6 @@
 # Icon Index
 
-> 499 total icons
+> 506 total icons
 
 ## Icons
 
@@ -107,6 +107,12 @@
 - Commit24
 - Container16
 - Container24
+- Copilot16
+- Copilot24
+- Copilot48
+- Copilot96
+- CopilotError16
+- CopilotWarning16
 - Copy16
 - Copy24
 - Cpu16
@@ -364,6 +370,7 @@
 - RepoForked16
 - RepoForked24
 - RepoLocked16
+- RepoLocked24
 - RepoPull16
 - RepoPush16
 - RepoPush24

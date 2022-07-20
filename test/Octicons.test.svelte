@@ -13,7 +13,7 @@
     FeedForked16,
     Cloud16,
     FileRemoved16,
-    Copilot16
+    Copilot16,
   } from "../lib";
   import Version24 from "../lib/Verified24.svelte";
   import GitPullRequestClosed16 from "../lib/GitPullRequestClosed16.svelte";

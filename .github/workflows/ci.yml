@@ -3,23 +3,20 @@ name: CI
 on:
   pull_request:
   push:
-    branches:
-      - master
+    branches: [master]
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
       - uses: actions/cache@v2
         id: yarn-cache
         with:
           path: "**/node_modules"
           key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
 
-      - name: Build library and validate TypeScript definitions
+      - name: Build the library
         run: |
           yarn
           yarn prepack
-          yarn test

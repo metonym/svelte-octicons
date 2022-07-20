@@ -12,14 +12,12 @@
     "dev": "rollup -cw",
     "predeploy": "rollup -c",
     "deploy": "gh-pages -d dist",
-    "prepack": "node build",
-    "test": "svelte-check --workspace test"
+    "prepack": "node build"
   },
   "devDependencies": {
     "@primer/octicons": "17.3.0",
     "gh-pages": "^4.0.0",
     "svelte": "^3.49.0",
-    "svelte-check": "^2.8.0",
     "svelte-readme": "^3.6.3",
     "svelvg": "^0.11.2"
   },

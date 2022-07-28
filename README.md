@@ -16,21 +16,14 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1
 
 ## Installation
 
-**Yarn**
-
-```bash
+```sh
+# Yarn
 yarn add -D svelte-octicons
-```
 
-**NPM**
-
-```bash
+# npm
 npm i -D svelte-octicons
-```
 
-**pnpm**
-
-```bash
+# pnpm
 pnpm i -D svelte-octicons
 ```
 

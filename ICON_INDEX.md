@@ -1,6 +1,6 @@
 # Icon Index
 
-> 506 total icons
+> 514 total icons
 
 ## Icons
 
@@ -55,6 +55,7 @@
 - Browser24
 - Bug16
 - Bug24
+- Cache16
 - Calendar16
 - Calendar24
 - Check16
@@ -64,6 +65,8 @@
 - CheckCircleFill12
 - CheckCircleFill16
 - CheckCircleFill24
+- Checkbox16
+- Checkbox24
 - Checklist16
 - Checklist24
 - ChevronDown16
@@ -100,6 +103,8 @@
 - Codespaces24
 - Columns16
 - Columns24
+- CommandPalette16
+- CommandPalette24
 - Comment16
 - Comment24
 - CommentDiscussion16
@@ -214,6 +219,7 @@
 - GitCompare24
 - GitMerge16
 - GitMerge24
+- GitMergeQueue16
 - GitPullRequest16
 - GitPullRequest24
 - GitPullRequestClosed16
@@ -331,6 +337,8 @@
 - Paintbrush16
 - PaperAirplane16
 - PaperAirplane24
+- Paperclip16
+- Paperclip24
 - Paste16
 - Paste24
 - Pencil16

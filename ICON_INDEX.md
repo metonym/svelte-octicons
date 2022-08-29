@@ -1,10 +1,11 @@
 # Icon Index
 
-> 514 total icons
+> 516 total icons
 
 ## Icons
 
 - Accessibility16
+- AccessibilityInset16
 - Alert16
 - Alert24
 - AlertFill12
@@ -412,6 +413,7 @@
 - ShieldCheck24
 - ShieldLock16
 - ShieldLock24
+- ShieldSlash16
 - ShieldX16
 - ShieldX24
 - SidebarCollapse16

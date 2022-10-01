@@ -1,6 +1,6 @@
 # Icon Index
 
-> 516 total icons
+> 521 total icons
 
 ## Icons
 
@@ -9,6 +9,8 @@
 - Alert16
 - Alert24
 - AlertFill12
+- AlertFill16
+- AlertFill24
 - Apps16
 - Archive16
 - Archive24
@@ -70,10 +72,12 @@
 - Checkbox24
 - Checklist16
 - Checklist24
+- ChevronDown12
 - ChevronDown16
 - ChevronDown24
 - ChevronLeft16
 - ChevronLeft24
+- ChevronRight12
 - ChevronRight16
 - ChevronRight24
 - ChevronUp16
@@ -295,6 +299,7 @@
 - Lock16
 - Lock24
 - Log16
+- Log24
 - LogoGist16
 - LogoGithub16
 - Mail16

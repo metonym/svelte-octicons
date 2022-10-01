@@ -16,6 +16,7 @@
     Copilot16,
     Cache16,
     ShieldSlash16,
+    AlertFill16
   } from "../lib";
   import Version24 from "../lib/Verified24.svelte";
   import GitPullRequestClosed16 from "../lib/GitPullRequestClosed16.svelte";
@@ -42,6 +43,7 @@
 <Copilot16 />
 <Cache16 />
 <ShieldSlash16 />
+<AlertFill16 />
 
 {#each Object.keys(Octicons) as octicon}
   <div>

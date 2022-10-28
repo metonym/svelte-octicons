@@ -1,6 +1,6 @@
 # Icon Index
 
-> 521 total icons
+> 529 total icons
 
 ## Icons
 
@@ -18,7 +18,9 @@
 - ArrowBoth24
 - ArrowDown16
 - ArrowDown24
+- ArrowDownLeft16
 - ArrowDownLeft24
+- ArrowDownRight16
 - ArrowDownRight24
 - ArrowLeft16
 - ArrowLeft24
@@ -28,7 +30,9 @@
 - ArrowSwitch24
 - ArrowUp16
 - ArrowUp24
+- ArrowUpLeft16
 - ArrowUpLeft24
+- ArrowUpRight16
 - ArrowUpRight24
 - Beaker16
 - Beaker24
@@ -273,6 +277,10 @@
 - IssueOpened24
 - IssueReopened16
 - IssueReopened24
+- IssueTrackedBy16
+- IssueTrackedBy24
+- IssueTrackedIn16
+- IssueTrackedIn24
 - Italic16
 - Italic24
 - Iterations16

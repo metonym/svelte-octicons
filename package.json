@@ -15,7 +15,7 @@
     "prepack": "node build"
   },
   "devDependencies": {
-    "@primer/octicons": "17.8.0",
+    "@primer/octicons": "17.9.0",
     "gh-pages": "^4.0.0",
     "svelte": "^3.52.0",
     "svelte-readme": "^3.6.3",

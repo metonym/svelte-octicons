@@ -1,6 +1,6 @@
 # Icon Index
 
-> 529 total icons
+> 537 total icons
 
 ## Icons
 
@@ -92,6 +92,8 @@
 - CircleSlash24
 - Clock16
 - Clock24
+- ClockFill16
+- ClockFill24
 - Cloud16
 - Cloud24
 - CloudOffline16
@@ -377,6 +379,10 @@
 - PlusCircle24
 - Project16
 - Project24
+- ProjectRoadmap16
+- ProjectRoadmap24
+- ProjectSymlink16
+- ProjectSymlink24
 - Pulse16
 - Pulse24
 - Question16
@@ -441,6 +447,8 @@
 - SingleSelect24
 - Skip16
 - Skip24
+- SkipFill16
+- SkipFill24
 - Sliders16
 - Smiley16
 - Smiley24

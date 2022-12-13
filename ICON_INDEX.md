@@ -1,6 +1,6 @@
 # Icon Index
 
-> 537 total icons
+> 549 total icons
 
 ## Icons
 
@@ -239,6 +239,8 @@
 - GitPullRequestDraft24
 - Globe16
 - Globe24
+- Goal16
+- Goal24
 - Grabber16
 - Grabber24
 - Graph16
@@ -389,6 +391,10 @@
 - Question24
 - Quote16
 - Quote24
+- Read16
+- Read24
+- RelFilePath16
+- RelFilePath24
 - Reply16
 - Reply24
 - Repo16
@@ -456,6 +462,8 @@
 - SortAsc24
 - SortDesc16
 - SortDesc24
+- SponsorTiers16
+- SponsorTiers24
 - Square16
 - Square24
 - SquareFill16
@@ -515,10 +523,14 @@
 - Typography24
 - Unfold16
 - Unfold24
+- Unlink16
+- Unlink24
 - Unlock16
 - Unlock24
 - Unmute16
 - Unmute24
+- Unread16
+- Unread24
 - Unverified16
 - Unverified24
 - Upload16

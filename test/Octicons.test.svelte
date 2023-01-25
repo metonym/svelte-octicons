@@ -20,6 +20,7 @@
     ArrowDownLeft16,
     ClockFill16,
     Goal16,
+    SparkleFill16,
   } from "../lib";
   import Version24 from "../lib/Verified24.svelte";
   import GitPullRequestClosed16 from "../lib/GitPullRequestClosed16.svelte";
@@ -50,6 +51,7 @@
 <ArrowDownLeft16 />
 <ClockFill16 />
 <Goal16 />
+<SparkleFill16 />
 
 {#each Object.keys(Octicons) as octicon}
   <div>

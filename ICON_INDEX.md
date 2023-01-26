@@ -1,6 +1,6 @@
 # Icon Index
 
-> 549 total icons
+> 552 total icons
 
 ## Icons
 
@@ -84,6 +84,7 @@
 - ChevronRight12
 - ChevronRight16
 - ChevronRight24
+- ChevronUp12
 - ChevronUp16
 - ChevronUp24
 - Circle16
@@ -210,6 +211,7 @@
 - FileZip24
 - Filter16
 - Filter24
+- FiscalHost16
 - Flame16
 - Flame24
 - Fold16
@@ -462,6 +464,7 @@
 - SortAsc24
 - SortDesc16
 - SortDesc24
+- SparkleFill16
 - SponsorTiers16
 - SponsorTiers24
 - Square16

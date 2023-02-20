@@ -1,6 +1,6 @@
 # Icon Index
 
-> 552 total icons
+> 565 total icons
 
 ## Icons
 
@@ -233,6 +233,7 @@
 - GitMerge16
 - GitMerge24
 - GitMergeQueue16
+- GitMergeQueue24
 - GitPullRequest16
 - GitPullRequest24
 - GitPullRequestClosed16
@@ -333,6 +334,14 @@
 - Moon24
 - MortarBoard16
 - MortarBoard24
+- MoveToBottom16
+- MoveToBottom24
+- MoveToEnd16
+- MoveToEnd24
+- MoveToStart16
+- MoveToStart24
+- MoveToTop16
+- MoveToTop24
 - MultiSelect16
 - MultiSelect24
 - Mute16
@@ -556,3 +565,7 @@
 - XCircleFill24
 - Zap16
 - Zap24
+- ZoomIn16
+- ZoomIn24
+- ZoomOut16
+- ZoomOut24

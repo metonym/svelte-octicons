@@ -1,6 +1,6 @@
 # Icon Index
 
-> 565 total icons
+> 566 total icons
 
 ## Icons
 
@@ -286,8 +286,8 @@
 - IssueReopened24
 - IssueTrackedBy16
 - IssueTrackedBy24
-- IssueTrackedIn16
-- IssueTrackedIn24
+- IssueTracks16
+- IssueTracks24
 - Italic16
 - Italic24
 - Iterations16
@@ -450,6 +450,7 @@
 - ShieldLock16
 - ShieldLock24
 - ShieldSlash16
+- ShieldSlash24
 - ShieldX16
 - ShieldX24
 - SidebarCollapse16

@@ -1,6 +1,6 @@
 # Icon Index
 
-> 566 total icons
+> 574 total icons
 
 ## Icons
 
@@ -162,6 +162,12 @@
 - DiffModified16
 - DiffRemoved16
 - DiffRenamed16
+- DiscussionClosed16
+- DiscussionClosed24
+- DiscussionDuplicate16
+- DiscussionDuplicate24
+- DiscussionOutdated16
+- DiscussionOutdated24
 - Dot16
 - Dot24
 - DotFill16
@@ -368,6 +374,8 @@
 - PaperAirplane24
 - Paperclip16
 - Paperclip24
+- PasskeyFill16
+- PasskeyFill24
 - Paste16
 - Paste24
 - Pencil16

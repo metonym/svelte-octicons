@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [18.1.0](https://github.com/metonym/svelte-octicons/releases/tag/v18.1.0) - 2023-03-11
+
+- upgrade `@primer/octicons` to [v18.2.0](https://github.com/primer/octicons/releases/tag/v18.2.0) (net +8 icons)
+
 ## [18.0.0](https://github.com/metonym/svelte-octicons/releases/tag/v18.0.0) - 2023-03-05
 
 - upgrade `@primer/octicons` to [v18.0.0](https://github.com/primer/octicons/releases/tag/v18.0.0) (net +1 icon)

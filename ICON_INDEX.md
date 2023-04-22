@@ -1,6 +1,6 @@
 # Icon Index
 
-> 574 total icons
+> 576 total icons
 
 ## Icons
 
@@ -404,6 +404,8 @@
 - ProjectRoadmap24
 - ProjectSymlink16
 - ProjectSymlink24
+- ProjectTemplate16
+- ProjectTemplate24
 - Pulse16
 - Pulse24
 - Question16

@@ -1,6 +1,6 @@
 # Icon Index
 
-> 576 total icons
+> 581 total icons
 
 ## Icons
 
@@ -153,6 +153,8 @@
 - DeviceDesktop24
 - DeviceMobile16
 - DeviceMobile24
+- Devices16
+- Devices24
 - Diamond16
 - Diamond24
 - Diff16
@@ -390,6 +392,8 @@
 - PersonFill24
 - Pin16
 - Pin24
+- PinSlash16
+- PinSlash24
 - Play16
 - Play24
 - Plug16
@@ -567,6 +571,7 @@
 - Webhook16
 - Workflow16
 - Workflow24
+- X12
 - X16
 - X24
 - XCircle16

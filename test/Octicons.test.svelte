@@ -23,6 +23,7 @@
     SparkleFill16,
     GitMergeQueue24,
     ProjectTemplate16,
+    Devices16,
   } from "../lib";
   import Version24 from "../lib/Verified24.svelte";
   import GitPullRequestClosed16 from "../lib/GitPullRequestClosed16.svelte";
@@ -56,6 +57,7 @@
 <SparkleFill16 />
 <GitMergeQueue24 />
 <ProjectTemplate16 />
+<Devices16 />
 
 {#each Object.keys(Octicons) as octicon}
   <div>

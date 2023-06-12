@@ -1,6 +1,6 @@
 # Icon Index
 
-> 581 total icons
+> 585 total icons
 
 ## Icons
 
@@ -394,6 +394,8 @@
 - Pin24
 - PinSlash16
 - PinSlash24
+- PivotColumn16
+- PivotColumn24
 - Play16
 - Play24
 - Plug16
@@ -418,6 +420,7 @@
 - Quote24
 - Read16
 - Read24
+- Redo16
 - RelFilePath16
 - RelFilePath24
 - Reply16
@@ -548,6 +551,7 @@
 - Trophy24
 - Typography16
 - Typography24
+- Undo16
 - Unfold16
 - Unfold24
 - Unlink16

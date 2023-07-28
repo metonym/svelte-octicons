@@ -1,5 +1,4 @@
 <script lang="ts">
-  import type { SvelteComponent } from "svelte";
   import {
     Accessibility16,
     Alert16,
@@ -27,12 +26,11 @@
   } from "../lib";
   import Version24 from "../lib/Verified24.svelte";
   import GitPullRequestClosed16 from "../lib/GitPullRequestClosed16.svelte";
-  import * as Octicons from "../lib";
 
-  let icon: typeof SvelteComponent = FeedForked16;
+  let icon = FeedForked16;
 </script>
 
-{icon}
+<svelte:component this={icon} height={24} />
 
 <Accessibility16 fill="red" />
 <Alert16 class="icon" />
@@ -58,10 +56,3 @@
 <GitMergeQueue24 />
 <ProjectTemplate16 />
 <Devices16 />
-
-{#each Object.keys(Octicons) as octicon}
-  <div>
-    <svelte:component this={Octicons[octicon]} />
-    {octicon}
-  </div>
-{/each}

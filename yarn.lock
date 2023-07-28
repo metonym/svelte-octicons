@@ -84,10 +84,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@primer/octicons@19.2.0":
-  version "19.2.0"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-19.2.0.tgz#a91e47a8b4f50691a2284c78ef05b61f4aaa4e8e"
-  integrity sha512-9mJOwvXu4tL7pc94N8Uh+N4eSlEztcVKrU0RIp3c1NnxiKsr9FsPUOSoG5IRet4uAEDWdehUuIy11qLuBUH9+Q==
+"@primer/octicons@19.5.0":
+  version "19.5.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-19.5.0.tgz#4922cc625767ce75a37cdbd7d0bbd8130dc7d6bf"
+  integrity sha512-b3IBp3EmzLc/YMw3xdqy7Lg8CgFObYaWegPntoKO1bZLZ4sAG5PRMPp36rj4TF1sDHbNufhGMvdCCM5VdS3mPQ==
   dependencies:
     object-assign "^4.1.1"
 

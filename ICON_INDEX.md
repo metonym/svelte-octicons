@@ -1,6 +1,6 @@
 # Icon Index
 
-> 585 total icons
+> 593 total icons
 
 ## Icons
 
@@ -208,6 +208,8 @@
 - FileDirectoryFill16
 - FileDirectoryFill24
 - FileDirectoryOpenFill16
+- FileDirectorySymlink16
+- FileDirectorySymlink24
 - FileMedia24
 - FileMoved16
 - FileRemoved16
@@ -428,12 +430,14 @@
 - Repo16
 - Repo24
 - RepoClone16
+- RepoClone24
 - RepoDeleted16
 - RepoForked16
 - RepoForked24
 - RepoLocked16
 - RepoLocked24
 - RepoPull16
+- RepoPull24
 - RepoPush16
 - RepoPush24
 - RepoTemplate16
@@ -537,6 +541,10 @@
 - Thumbsup24
 - Tools16
 - Tools24
+- TrackedByClosedCompleted16
+- TrackedByClosedCompleted24
+- TrackedByClosedNotPlanned16
+- TrackedByClosedNotPlanned24
 - Trash16
 - Trash24
 - TriangleDown16

@@ -76,10 +76,10 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@primer/octicons@19.5.0":
-  version "19.5.0"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-19.5.0.tgz#4922cc625767ce75a37cdbd7d0bbd8130dc7d6bf"
-  integrity sha512-b3IBp3EmzLc/YMw3xdqy7Lg8CgFObYaWegPntoKO1bZLZ4sAG5PRMPp36rj4TF1sDHbNufhGMvdCCM5VdS3mPQ==
+"@primer/octicons@19.6.0":
+  version "19.6.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-19.6.0.tgz#24557ecd62fd60f76092025e567b3c21c5d86c46"
+  integrity sha512-/10tz0hyJijS9hCLKw5Wb3LfRmVSQjtiUDPfvf582bhe+/xZDybgf3VLJncD5SZaetC4zNhz31VwV8nnG2PdSQ==
   dependencies:
     object-assign "^4.1.1"
 
@@ -883,10 +883,10 @@ svelte@^3.59.1:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.59.2.tgz#a137b28e025a181292b2ae2e3dca90bf8ec73aec"
   integrity sha512-vzSyuGr3eEoAtT/A6bmajosJZIUWySzY2CzB3w2pgPvnkUjGqlDnsNnA0PMO+mMAhuyMul6C2uuZzY6ELSkzyA==
 
-svelte@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-4.1.1.tgz#468ed0377d3cae542b35df8a22a3ca188d93272a"
-  integrity sha512-Enick5fPFISLoVy0MFK45cG+YlQt6upw8skEK9zzTpJnH1DqEv8xOZwizCGSo3Q6HZ7KrZTM0J18poF7aQg5zw==
+svelte@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-4.2.0.tgz#0e4304c15524450b22fba02516eb72efbd8847b6"
+  integrity sha512-kVsdPjDbLrv74SmLSUzAsBGquMs4MPgWGkGLpH+PjOYnFOziAvENVzgJmyOCV2gntxE32aNm8/sqNKD6LbIpeQ==
   dependencies:
     "@ampproject/remapping" "^2.2.1"
     "@jridgewell/sourcemap-codec" "^1.4.15"

@@ -1,6 +1,6 @@
 # Icon Index
 
-> 593 total icons
+> 601 total icons
 
 ## Icons
 
@@ -186,8 +186,16 @@
 - FeedDiscussion16
 - FeedForked16
 - FeedHeart16
+- FeedIssueClosed16
+- FeedIssueDraft16
+- FeedIssueOpen16
 - FeedMerged16
 - FeedPerson16
+- FeedPlus16
+- FeedPublic16
+- FeedPullRequestClosed16
+- FeedPullRequestDraft16
+- FeedPullRequestOpen16
 - FeedRepo16
 - FeedRocket16
 - FeedStar16

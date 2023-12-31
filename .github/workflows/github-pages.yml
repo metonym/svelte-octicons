@@ -11,7 +11,7 @@ jobs:
       - name: Build app
         run: |
           yarn
-          yarn prepack
+          yarn package
           yarn build
 
       - name: Deploy to gh-pages

@@ -4,14 +4,11 @@
   "license": "MIT",
   "description": "GitHub Octicons as Svelte components",
   "author": "Eric Liu (https://github.com/metonym)",
-  "svelte": "./lib/index.js",
-  "main": "./lib/index.js",
-  "types": "./lib/index.d.ts",
   "type": "module",
   "scripts": {
     "dev": "rollup -cw",
     "build": "rollup -c",
-    "prepack": "node build"
+    "package": "node scripts/npm-package"
   },
   "devDependencies": {
     "@primer/octicons": "19.6.0",
@@ -31,11 +28,7 @@
     "octicons",
     "primer",
     "github",
-    "icons",
-    "svg",
-    "typescript"
+    "icons"
   ],
-  "files": [
-    "lib"
-  ]
+  "svelte": "./package/lib/index.js"
 }

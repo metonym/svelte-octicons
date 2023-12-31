@@ -17,7 +17,7 @@
   "devDependencies": {
     "@primer/octicons": "19.6.0",
     "gh-pages": "^5.0.0",
-    "svelte": "^4.2.0",
+    "svelte": "^4.2.8",
     "svelte-readme": "^3.6.3",
     "svelvg": "^0.12.1"
   },

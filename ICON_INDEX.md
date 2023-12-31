@@ -1,6 +1,6 @@
 # Icon Index
 
-> 601 total icons
+> 604 total icons
 
 ## Icons
 
@@ -189,6 +189,7 @@
 - FeedIssueClosed16
 - FeedIssueDraft16
 - FeedIssueOpen16
+- FeedIssueReopen16
 - FeedMerged16
 - FeedPerson16
 - FeedPlus16
@@ -229,6 +230,8 @@
 - FileZip24
 - Filter16
 - Filter24
+- FilterRemove16
+- FilterRemove24
 - FiscalHost16
 - Flame16
 - Flame24

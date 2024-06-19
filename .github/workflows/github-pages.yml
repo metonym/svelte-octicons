@@ -7,15 +7,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Build library
+        run: bun run package
 
       - name: Build app
-        run: |
-          yarn
-          yarn package
-          yarn build
+        run: bun build
 
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: dist

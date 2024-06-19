@@ -1,4 +1,3 @@
-// @ts-check
 import octicons from "@primer/octicons";
 import { createLibrary } from "svelvg";
 

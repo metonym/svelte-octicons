@@ -1,17 +1,20 @@
 # Icon Index
 
-> 604 total icons
+> 641 total icons
 
 ## Icons
 
 - Accessibility16
+- Accessibility24
 - AccessibilityInset16
+- AccessibilityInset24
 - Alert16
 - Alert24
 - AlertFill12
 - AlertFill16
 - AlertFill24
 - Apps16
+- Apps24
 - Archive16
 - Archive24
 - ArrowBoth16
@@ -51,8 +54,10 @@
 - Bookmark16
 - Bookmark24
 - BookmarkFill24
+- BookmarkFilled16
 - BookmarkSlash16
 - BookmarkSlash24
+- BookmarkSlashFill16
 - BookmarkSlashFill24
 - Briefcase16
 - Briefcase24
@@ -63,6 +68,7 @@
 - Bug16
 - Bug24
 - Cache16
+- Cache24
 - Calendar16
 - Calendar24
 - Check16
@@ -79,6 +85,7 @@
 - ChevronDown12
 - ChevronDown16
 - ChevronDown24
+- ChevronLeft12
 - ChevronLeft16
 - ChevronLeft24
 - ChevronRight12
@@ -121,7 +128,6 @@
 - Comment24
 - CommentDiscussion16
 - CommentDiscussion24
-- Commit24
 - Container16
 - Container24
 - Copilot16
@@ -147,6 +153,7 @@
 - DesktopDownload16
 - DesktopDownload24
 - DeviceCamera16
+- DeviceCamera24
 - DeviceCameraVideo16
 - DeviceCameraVideo24
 - DeviceDesktop16
@@ -160,10 +167,15 @@
 - Diff16
 - Diff24
 - DiffAdded16
+- DiffAdded24
 - DiffIgnored16
+- DiffIgnored24
 - DiffModified16
+- DiffModified24
 - DiffRemoved16
+- DiffRemoved24
 - DiffRenamed16
+- DiffRenamed24
 - DiscussionClosed16
 - DiscussionClosed24
 - DiscussionDuplicate16
@@ -179,6 +191,7 @@
 - Duplicate16
 - Duplicate24
 - Ellipsis16
+- Ellipsis24
 - Eye16
 - Eye24
 - EyeClosed16
@@ -205,7 +218,9 @@
 - File16
 - File24
 - FileAdded16
+- FileAdded24
 - FileBadge16
+- FileBadge24
 - FileBinary16
 - FileBinary24
 - FileCode16
@@ -217,11 +232,15 @@
 - FileDirectoryFill16
 - FileDirectoryFill24
 - FileDirectoryOpenFill16
+- FileDirectoryOpenFill24
 - FileDirectorySymlink16
 - FileDirectorySymlink24
+- FileMedia16
 - FileMedia24
 - FileMoved16
+- FileMoved24
 - FileRemoved16
+- FileRemoved24
 - FileSubmodule16
 - FileSubmodule24
 - FileSymlinkFile16
@@ -233,6 +252,7 @@
 - FilterRemove16
 - FilterRemove24
 - FiscalHost16
+- FiscalHost24
 - Flame16
 - Flame24
 - Fold16
@@ -281,6 +301,7 @@
 - History24
 - Home16
 - Home24
+- HomeFill16
 - HomeFill24
 - HorizontalRule16
 - HorizontalRule24
@@ -289,6 +310,7 @@
 - Hubot16
 - Hubot24
 - IdBadge16
+- IdBadge24
 - Image16
 - Image24
 - Inbox16
@@ -318,6 +340,7 @@
 - Key16
 - Key24
 - KeyAsterisk16
+- KeyAsterisk24
 - Law16
 - Law24
 - LightBulb16
@@ -337,16 +360,21 @@
 - Log16
 - Log24
 - LogoGist16
+- LogoGist24
 - LogoGithub16
+- LogoGithub24
 - Mail16
 - Mail24
 - Markdown16
+- Markdown24
 - MarkGithub16
+- MarkGithub24
 - Megaphone16
 - Megaphone24
 - Mention16
 - Mention24
 - Meter16
+- Meter24
 - Milestone16
 - Milestone24
 - Mirror16
@@ -385,6 +413,7 @@
 - PackageDependents16
 - PackageDependents24
 - Paintbrush16
+- Paintbrush24
 - PaperAirplane16
 - PaperAirplane24
 - Paperclip16
@@ -434,6 +463,7 @@
 - Read16
 - Read24
 - Redo16
+- Redo24
 - RelFilePath16
 - RelFilePath24
 - Reply16
@@ -442,6 +472,7 @@
 - Repo24
 - RepoClone16
 - RepoClone24
+- RepoDelete24
 - RepoDeleted16
 - RepoForked16
 - RepoForked24
@@ -500,6 +531,7 @@
 - SkipFill16
 - SkipFill24
 - Sliders16
+- Sliders24
 - Smiley16
 - Smiley24
 - SortAsc16
@@ -507,6 +539,7 @@
 - SortDesc16
 - SortDesc24
 - SparkleFill16
+- SparkleFill24
 - SponsorTiers16
 - SponsorTiers24
 - Square16
@@ -531,8 +564,10 @@
 - Sun24
 - Sync16
 - Sync24
+- Tab16
 - Tab24
 - TabExternal16
+- TabExternal24
 - Table16
 - Table24
 - Tag16
@@ -546,6 +581,7 @@
 - Terminal16
 - Terminal24
 - ThreeBars16
+- ThreeBars24
 - Thumbsdown16
 - Thumbsdown24
 - Thumbsup16
@@ -571,6 +607,7 @@
 - Typography16
 - Typography24
 - Undo16
+- Undo24
 - Unfold16
 - Unfold24
 - Unlink16

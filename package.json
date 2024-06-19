@@ -15,7 +15,7 @@
     "@types/bun": "^1.1.4",
     "svelte": "^4.2.8",
     "svelte-readme": "^3.6.3",
-    "svelvg": "^0.12.1"
+    "svelvg": "^0.12.2"
   },
   "repository": {
     "type": "git",

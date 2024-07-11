@@ -17,14 +17,17 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1
 ## Installation
 
 ```sh
-# Yarn
-yarn add -D svelte-octicons
-
 # npm
 npm i -D svelte-octicons
 
 # pnpm
 pnpm i -D svelte-octicons
+
+# Bun
+bun i -D svelte-octicons
+
+# Yarn
+yarn add -D svelte-octicons
 ```
 
 ## Usage

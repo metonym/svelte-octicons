@@ -12,10 +12,10 @@
   },
   "devDependencies": {
     "@primer/octicons": "19.11.0",
-    "@types/bun": "^1.1.4",
-    "svelte": "^4.2.8",
-    "svelte-readme": "^3.6.3",
-    "svelvg": "^0.12.2"
+    "@types/bun": "latest",
+    "svelte": "latest",
+    "svelte-readme": "latest",
+    "svelvg": "latest"
   },
   "repository": {
     "type": "git",

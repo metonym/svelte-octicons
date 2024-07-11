@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/metonym/svelte-octicons.git"
+    "url": "git+https://github.com/metonym/svelte-octicons.git"
   },
   "homepage": "https://github.com/metonym/svelte-octicons",
   "bugs": "https://github.com/metonym/svelte-octicons/issues",

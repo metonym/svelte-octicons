@@ -1,6 +1,6 @@
 # Icon Index
 
-> 641 total icons
+> 643 total icons
 
 ## Icons
 
@@ -8,6 +8,8 @@
 - Accessibility24
 - AccessibilityInset16
 - AccessibilityInset24
+- AiModel16
+- AiModel24
 - Alert16
 - Alert24
 - AlertFill12

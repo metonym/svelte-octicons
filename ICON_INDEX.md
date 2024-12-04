@@ -1,6 +1,6 @@
 # Icon Index
 
-> 643 total icons
+> 645 total icons
 
 ## Icons
 
@@ -542,6 +542,8 @@
 - SortDesc24
 - SparkleFill16
 - SparkleFill24
+- SparklesFill16
+- SparklesFill24
 - SponsorTiers16
 - SponsorTiers24
 - Square16

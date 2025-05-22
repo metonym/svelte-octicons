@@ -11,7 +11,7 @@
     "package": "bun scripts/npm-package.ts"
   },
   "devDependencies": {
-    "@primer/octicons": "19.13.0",
+    "@primer/octicons": "19.15.2",
     "@types/bun": "latest",
     "svelte": "^4.2.20",
     "svelte-readme": "latest",

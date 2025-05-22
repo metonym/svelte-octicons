@@ -1,6 +1,6 @@
 # Icon Index
 
-> 645 total icons
+> 649 total icons
 
 ## Icons
 
@@ -424,6 +424,8 @@
 - PasskeyFill24
 - Paste16
 - Paste24
+- Pause16
+- Pause24
 - Pencil16
 - Pencil24
 - People16
@@ -548,6 +550,8 @@
 - SponsorTiers24
 - Square16
 - Square24
+- SquareCircle16
+- SquareCircle24
 - SquareFill16
 - SquareFill24
 - Squirrel16

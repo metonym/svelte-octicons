@@ -1,6 +1,6 @@
 # Icon Index
 
-> 649 total icons
+> 657 total icons
 
 ## Icons
 
@@ -8,6 +8,8 @@
 - Accessibility24
 - AccessibilityInset16
 - AccessibilityInset24
+- Agent16
+- Agent24
 - AiModel16
 - AiModel24
 - Alert16
@@ -365,6 +367,8 @@
 - LogoGist24
 - LogoGithub16
 - LogoGithub24
+- Loop16
+- Loop24
 - Mail16
 - Mail24
 - Markdown16
@@ -542,6 +546,10 @@
 - SortAsc24
 - SortDesc16
 - SortDesc24
+- Space16
+- Space24
+- Sparkle16
+- Sparkle24
 - SparkleFill16
 - SparkleFill24
 - SparklesFill16

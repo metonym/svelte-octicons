@@ -1,6 +1,6 @@
 # Icon Index
 
-> 661 total icons
+> 663 total icons
 
 ## Icons
 
@@ -377,6 +377,8 @@
 - MarkGithub24
 - Maximize16
 - Maximize24
+- Mcp16
+- Mcp24
 - Megaphone16
 - Megaphone24
 - Mention16

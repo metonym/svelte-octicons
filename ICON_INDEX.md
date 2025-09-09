@@ -1,6 +1,6 @@
 # Icon Index
 
-> 663 total icons
+> 665 total icons
 
 ## Icons
 
@@ -79,6 +79,8 @@
 - Check24
 - Checkbox16
 - Checkbox24
+- CheckboxFill16
+- CheckboxFill24
 - CheckCircle16
 - CheckCircle24
 - CheckCircleFill12

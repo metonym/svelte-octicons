@@ -18,16 +18,16 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/dce762f9a93c4e56b3ddde749cb1
 
 ```sh
 # npm
-npm i -D svelte-octicons
+npm i svelte-octicons
 
 # pnpm
-pnpm i -D svelte-octicons
+pnpm i svelte-octicons
 
 # Bun
-bun i -D svelte-octicons
+bun i svelte-octicons
 
 # Yarn
-yarn add -D svelte-octicons
+yarn add svelte-octicons
 ```
 
 ## Usage

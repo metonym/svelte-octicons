@@ -23,9 +23,9 @@
     GitMergeQueue24,
     ProjectTemplate16,
     Devices16,
-  } from "../lib";
-  import Version24 from "../lib/Verified24.svelte";
-  import GitPullRequestClosed16 from "../lib/GitPullRequestClosed16.svelte";
+  } from "../package/lib";
+  import Version24 from "../package/lib/Verified24.svelte";
+  import GitPullRequestClosed16 from "../package/lib/GitPullRequestClosed16.svelte";
 
   let icon = FeedForked16;
 </script>

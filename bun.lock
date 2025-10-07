@@ -4,7 +4,7 @@
     "": {
       "name": "svelte-octicons",
       "devDependencies": {
-        "@primer/octicons": "19.18.0",
+        "@primer/octicons": "19.18.1",
         "@types/bun": "latest",
         "svelte": "^4.2.20",
         "svelte-readme": "latest",
@@ -31,7 +31,7 @@
 
     "@jridgewell/trace-mapping": ["@jridgewell/trace-mapping@0.3.25", "", { "dependencies": { "@jridgewell/resolve-uri": "^3.1.0", "@jridgewell/sourcemap-codec": "^1.4.14" } }, "sha512-vNk6aEwybGtawWmy/PzwnGDOjCkLWSD2wqvjGGAgOAwCGWySYXfYoxt00IJkTF+8Lb57DwOb3Aa0o9CApepiYQ=="],
 
-    "@primer/octicons": ["@primer/octicons@19.18.0", "", { "dependencies": { "object-assign": "^4.1.1" } }, "sha512-4P8FS7slUp0vHE7zLtlfOQcgF99r0tdxpriT3ahp6iwwnf1hF3OlDWXEp5n6b6G5eIY1cNr1bCrjRL+DkRjFVw=="],
+    "@primer/octicons": ["@primer/octicons@19.18.1", "", { "dependencies": { "object-assign": "^4.1.1" } }, "sha512-bNKD789kLkj3JDcruxKqoRwy3nU7tZIVrTuS5UMENf3B8sp99Ms+GPyJWZYbKpwX2HwKauaBBrTFw96zM1lEXQ=="],
 
     "@rollup/plugin-node-resolve": ["@rollup/plugin-node-resolve@11.2.1", "", { "dependencies": { "@rollup/pluginutils": "^3.1.0", "@types/resolve": "1.17.1", "builtin-modules": "^3.1.0", "deepmerge": "^4.2.2", "is-module": "^1.0.0", "resolve": "^1.19.0" }, "peerDependencies": { "rollup": "^1.20.0||^2.0.0" } }, "sha512-yc2n43jcqVyGE2sqV5/YCmocy9ArjVAP/BeXyTtADTBBX6V0e5UMqwO8CdQ0kzjb6zu5P1qMzsScCMRvE9OlVg=="],
 

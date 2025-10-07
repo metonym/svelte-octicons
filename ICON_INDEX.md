@@ -1,6 +1,6 @@
 # Icon Index
 
-> 665 total icons
+> 668 total icons
 
 ## Icons
 
@@ -652,6 +652,9 @@
 - Versions24
 - Video16
 - Video24
+- Vscode16
+- Vscode32
+- Vscode48
 - Webhook16
 - Workflow16
 - Workflow24

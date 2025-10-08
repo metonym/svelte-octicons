@@ -1,6 +1,6 @@
 # Icon Index
 
-> 668 total icons
+> 670 total icons
 
 ## Icons
 
@@ -132,6 +132,8 @@
 - CommandPalette24
 - Comment16
 - Comment24
+- CommentAi16
+- CommentAi24
 - CommentDiscussion16
 - CommentDiscussion24
 - Container16

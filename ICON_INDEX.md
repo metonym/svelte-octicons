@@ -1,6 +1,6 @@
 # Icon Index
 
-> 670 total icons
+> 672 total icons
 
 ## Icons
 
@@ -323,6 +323,8 @@
 - Image24
 - Inbox16
 - Inbox24
+- InboxFill16
+- InboxFill24
 - Infinity16
 - Infinity24
 - Info16

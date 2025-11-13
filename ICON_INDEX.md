@@ -1,6 +1,6 @@
 # Icon Index
 
-> 672 total icons
+> 720 total icons
 
 ## Icons
 
@@ -63,6 +63,10 @@
 - BookmarkSlash24
 - BookmarkSlashFill16
 - BookmarkSlashFill24
+- BooleanOff16
+- BooleanOff24
+- BooleanOn16
+- BooleanOn24
 - Briefcase16
 - Briefcase24
 - Broadcast16
@@ -136,6 +140,8 @@
 - CommentAi24
 - CommentDiscussion16
 - CommentDiscussion24
+- Compose16
+- Compose24
 - Container16
 - Container24
 - Copilot16
@@ -150,6 +156,8 @@
 - Cpu24
 - CreditCard16
 - CreditCard24
+- Crosshairs16
+- Crosshairs24
 - CrossReference16
 - CrossReference24
 - Dash16
@@ -172,6 +180,8 @@
 - Devices24
 - Diamond16
 - Diamond24
+- Dice16
+- Dice24
 - Diff16
 - Diff24
 - DiffAdded16
@@ -200,6 +210,8 @@
 - Duplicate24
 - Ellipsis16
 - Ellipsis24
+- Exclamation16
+- Exclamation24
 - Eye16
 - Eye24
 - EyeClosed16
@@ -231,6 +243,8 @@
 - FileBadge24
 - FileBinary16
 - FileBinary24
+- FileCheck16
+- FileCheck24
 - FileCode16
 - FileCode24
 - FileDiff16
@@ -263,6 +277,10 @@
 - FiscalHost24
 - Flame16
 - Flame24
+- Flowchart16
+- Flowchart24
+- FocusCenter16
+- FocusCenter24
 - Fold16
 - Fold24
 - FoldDown16
@@ -275,6 +293,8 @@
 - Gift24
 - GitBranch16
 - GitBranch24
+- GitBranchCheck16
+- GitBranchCheck24
 - GitCommit16
 - GitCommit24
 - GitCompare16
@@ -297,6 +317,10 @@
 - Grabber24
 - Graph16
 - Graph24
+- GraphBarHorizontal16
+- GraphBarHorizontal24
+- GraphBarVertical16
+- GraphBarVertical24
 - Hash16
 - Hash24
 - Heading16
@@ -413,6 +437,8 @@
 - MultiSelect24
 - Mute16
 - Mute24
+- Node16
+- Node24
 - NoEntry16
 - NoEntry24
 - NoEntryFill12
@@ -444,6 +470,8 @@
 - Pause24
 - Pencil16
 - Pencil24
+- PencilAi16
+- PencilAi24
 - People16
 - People24
 - Person16
@@ -554,18 +582,34 @@
 - Sliders24
 - Smiley16
 - Smiley24
+- SmileyFrown16
+- SmileyFrown24
+- SmileyFrustrated16
+- SmileyFrustrated24
+- SmileyGrin16
+- SmileyGrin24
+- SmileyNeutral16
+- SmileyNeutral24
 - SortAsc16
 - SortAsc24
 - SortDesc16
 - SortDesc24
 - Space16
 - Space24
+- SpacingLarge16
+- SpacingLarge24
+- SpacingMedium16
+- SpacingMedium24
+- SpacingSmall16
+- SpacingSmall24
 - Sparkle16
 - Sparkle24
 - SparkleFill16
 - SparkleFill24
 - SparklesFill16
 - SparklesFill24
+- SplitView16
+- SplitView24
 - SponsorTiers16
 - SponsorTiers24
 - Square16
@@ -648,6 +692,8 @@
 - Unread24
 - Unverified16
 - Unverified24
+- Unwrap16
+- Unwrap24
 - Upload16
 - Upload24
 - Verified16
@@ -662,6 +708,8 @@
 - Webhook16
 - Workflow16
 - Workflow24
+- Wrap16
+- Wrap24
 - X12
 - X16
 - X24

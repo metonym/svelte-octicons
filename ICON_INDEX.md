@@ -1,6 +1,6 @@
 # Icon Index
 
-> 720 total icons
+> 724 total icons
 
 ## Icons
 
@@ -55,6 +55,7 @@
 - Bold24
 - Book16
 - Book24
+- BookLocked16
 - Bookmark16
 - Bookmark24
 - BookmarkFill24
@@ -140,6 +141,7 @@
 - CommentAi24
 - CommentDiscussion16
 - CommentDiscussion24
+- CommentLocked16
 - Compose16
 - Compose24
 - Container16
@@ -309,6 +311,7 @@
 - GitPullRequestClosed24
 - GitPullRequestDraft16
 - GitPullRequestDraft24
+- GitPullRequestLocked16
 - Globe16
 - Globe24
 - Goal16
@@ -357,6 +360,7 @@
 - IssueClosed24
 - IssueDraft16
 - IssueDraft24
+- IssueLocked16
 - IssueOpened16
 - IssueOpened24
 - IssueReopened16
